@@ -1,0 +1,12 @@
+name: PDF
+on:
+  pull_request:
+  push:
+    branches: [master]
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: make
