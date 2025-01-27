@@ -11,6 +11,7 @@ filters:
   - citeproc
 variables:
   documentclass    : article
+  classoption      : oneside
   fontfamily       : ebgaramond
   fontfamilyoptions:
     - oldstyle
@@ -18,7 +19,6 @@ variables:
   fontsize         : 12pt
   indent           : true
   papersize        : a4
-  secnumdepth      : 2
   header-includes  : |
     \usepackage{academicons}
 
@@ -29,12 +29,12 @@ variables:
     \newcommand\allsc[1]{\textsc{\MakeTextLowercase{#1}}}
 
     \usepackage{titling}
-    \pretitle{\begin{flushleft}\Huge}
-    \posttitle{\end{flushleft}\vspace{2em}}
-    \preauthor{\begin{flushleft}\Large}
-    \postauthor{\par\end{flushleft}}
-    \predate{\begin{flushleft}\large}
-    \postdate{\end{flushleft}}
+    \pretitle{\begin{center}\Huge\itshape}
+    \posttitle{\end{center}\vspace{2em}}
+    \preauthor{\begin{center}}
+    \postauthor{\par\end{center}}
+    \predate{\begin{center}\large}
+    \postdate{\end{center}}
 
     \usepackage{titlesec,titletoc}
     \titleformat{\section}[hang]{\normalfont\Large\itshape}{\thesection}{1em}{}[]
@@ -50,5 +50,5 @@ variables:
   include-before: |
     \pagestyle{fancy}
     \fancyhf{}
-    \lhead{\itshape Pedro P. Palazzo}
-    \rhead{\thepage}
+    \rhead{\allsc{PRO} 0049 › 1.º/2025}
+    \rfoot{\thepage}
