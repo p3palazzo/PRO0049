@@ -222,7 +222,7 @@ Todos.
 
 2.
 
-   Beleza como valor universal
+   Geometria, proporções e modularidade
 
    : Geometria como veículo da beleza. Conhecendo os usos dos
    instrumentos de desenho técnico para realizar traçados proporcionais.
