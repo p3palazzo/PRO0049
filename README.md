@@ -1,4 +1,7 @@
-# EBGaramond-Pandoc-LaTeX
+# PRO 0049
 
-Template for Pandoc and LaTeX using the EB Garamond font.
+## Saber Local: Comunidade e Arquitetura
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
 

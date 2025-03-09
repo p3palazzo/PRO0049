@@ -20,7 +20,7 @@ references:
   ISBN: 978-85-7164-681-0
   issued:
     - year: 1997
-  language: pt
+  language: por
   publisher: Companhia das Letras
   publisher-place: São Paulo
   source: Library of Congress ISBN
@@ -43,6 +43,45 @@ references:
   publisher-place: Lisboa
   title: Arquitectura popular em Portugal
   type: book
+
+- id: amparo:2016lote23
+  abstract: >-
+    Este ensaio, com base em pesquisa bibliográfica, apresenta a evolução da
+    moradia indígena ao longo dos séculos, tomando por referência o processo de
+    territorialização indigenista e o avanço dos processos de urbanização e das
+    formas ocidentalizadas de construção sobre os espaços tradicionais da
+    aldeia. A partir da análise paisagística, suas referências serão o lote,
+    forma espacial que irá caracterizar a urbanização no Brasil; e na outra
+    ponta, a maloca, principal referência da habitação tradicional indígena.
+  accessed:
+    - year: 2025
+      month: 3
+      day: 6
+  author:
+    - family: Amparo
+      given: Sandoval Dos Santos
+  citation-key: amparo:2016lote23
+  container-title: PosFAUUSP
+  container-title-short: PosFAUUSP
+  DOI: 10.11606/issn.2317-2762.v23i40p26-46
+  ISSN: 2317-2762, 1518-9554
+  issue: '40'
+  issued:
+    - year: 2016
+      month: 11
+      day: 30
+  language: por
+  license: http://creativecommons.org/licenses/by-nc-sa/4.0
+  page: 26-46
+  source: DOI.org (Crossref)
+  title: >-
+    O lote e a maloca: territorialização indigenista, mudanças no saber-fazer
+    arquitetônico e a evolução da paisagem nas aldeias indígenas. Um estudo de
+    caso a partir dos Kaingáng
+  title-short: O lote e a maloca
+  type: article-journal
+  URL: https://www.revistas.usp.br/posfau/article/view/105108
+  volume: '23'
 
 - id: andrade:2023guia
   abstract: >-
@@ -103,7 +142,7 @@ references:
       given: Valmor Cerqueira
   citation-key: andrade:2023guia
   event-place: Brasília
-  ISBN: '9786584854178'
+  ISBN: 978-65-84854-17-8
   issued:
     - year: 2023
       month: 9
@@ -296,6 +335,58 @@ references:
   type: book
   volume: '1'
 
+- id: benitez:2025enigma
+  abstract: >-
+    Esta historia contiene un espía, un tesoro con más de dos mil años de
+    antigüedad y un escenario de cine que no exige retoques por ordenador. Aún
+    más: también tiene un...
+  accessed:
+    - year: 2025
+      month: 2
+      day: 13
+  author:
+    - family: Benítez
+      given: Jorge
+  citation-key: benitez:2025enigma
+  container-title: El Mundo
+  event-place: Madrid
+  issued:
+    - year: 2025
+      month: 1
+      day: 30
+  language: spa
+  publisher-place: Madrid
+  section: La-lectura
+  title: >-
+    El enigma descubierto en Córdoba que conquistó el mundo: "Es igual de mágica
+    que la proporción áurea, pero más cercana a la belleza humana"
+  title-short: El enigma descubierto en Córdoba que conquistó el mundo
+  type: article-newspaper
+  URL: https://www.elmundo.es/la-lectura/2025/01/31/6793b2dde9cf4a9f0b8b4578.html
+
+- id: binheti:1787regras
+  author:
+    - family: Binheti
+      given: José Carlos
+    - family: Vignola
+      given: Jacopo Barozzi
+      dropping-particle: da
+    - family: Bibiena
+      given: Ferdinando Galli
+  citation-key: binheti:1787regras
+  event-place: Lisboa
+  issued:
+    - year: 1787
+  language: por
+  publisher: Offic. de José de Aquino Bulhoens
+  publisher-place: Lisboa
+  title: Regras das cinco ordens de architectura de Jacomo Barocio de Vinhola
+  translator:
+    - family: Binheti
+      given: José Carlos
+  type: book
+  URL: http://biblioteca.ciarte.pt/tratados/obras/b/Binheti1787.html
+
 - id: bollati:1990lorganismo
   accessed:
     - year: 2020
@@ -332,7 +423,7 @@ references:
   ISBN: 978-84-8301-287-1
   issued:
     - year: 1999
-  language: es
+  language: spa
   publisher: Edicions UPC
   publisher-place: Barcelona
   source: Open WorldCat
@@ -359,6 +450,66 @@ references:
   publisher-place: Brasília
   title: 'Manual prático: uso da cal'
   type: book
+
+- id: broug:2008islamic
+  author:
+    - family: Broug
+      given: Eric
+  call-number: NK1270 .B7613 2008
+  citation-key: broug:2008islamic
+  event-place: London
+  ISBN: 978-0-500-28721-7
+  issued:
+    - year: 2008
+  language: eng
+  number-of-pages: '119'
+  publisher: Thames & Hudson
+  publisher-place: London
+  source: Library of Congress ISBN
+  title: Islamic geometric patterns
+  type: book
+
+- id: brunes:1967secrets1
+  author:
+    - family: Brunés
+      given: Tons
+  citation-key: brunes:1967secrets1
+  event-place: Copenhagen
+  ISBN: 978-0-391-01117-5
+  issued:
+    - year: 1967
+  language: eng
+  publisher: Rhodos
+  publisher-place: Copenhagen
+  source: Open WorldCat
+  title: The secrets of ancient geometry, and its use
+  title-short: The secrets of ancient geometry
+  translator:
+    - family: Napier
+      given: Charles M.
+  type: book
+  volume: '1'
+
+- id: brunes:1967secrets2
+  author:
+    - family: Brunés
+      given: Tons
+  citation-key: brunes:1967secrets2
+  event-place: Copenhagen
+  ISBN: 978-0-391-01117-5
+  issued:
+    - year: 1967
+  language: eng
+  publisher: Rhodos
+  publisher-place: Copenhagen
+  source: Open WorldCat
+  title: The secrets of ancient geometry, and its use
+  title-short: The secrets of ancient geometry
+  translator:
+    - family: Napier
+      given: Charles M.
+  type: book
+  volume: '2'
 
 - id: caldas:2000arquitectura
   archive_location: 728.6 (469.9)
@@ -461,6 +612,51 @@ references:
   title-short: Manual cores da terra
   type: book
 
+- id: carpo:2003drawing62
+  accessed:
+    - year: 2019
+      month: 5
+      day: 16
+  author:
+    - family: Carpo
+      given: Mario
+  citation-key: carpo:2003drawing62
+  container-title: Journal of the Society of Architectural Historians
+  DOI: 10.2307/3592497
+  ISSN: 00379808, 21505926
+  issue: '4'
+  issued:
+    - year: 2003
+      month: 12
+  language: eng
+  page: 448-469
+  source: Crossref
+  title: >-
+    Drawing with numbers: geometry and numeracy in early modern architectural
+    design
+  title-short: Drawing with numbers
+  type: article-journal
+  URL: http://jsah.ucpress.edu/cgi/doi/10.2307/3592497
+  volume: '62'
+
+- id: cenicacelaya:2014arquitectura
+  author:
+    - family: Cenicacelaya
+      given: Javier
+  citation-key: cenicacelaya:2014arquitectura
+  event-place: Lisboa
+  ISBN: 978-972-44-1833-9
+  issued:
+    - year: 2014
+  language: por
+  number-of-pages: '223'
+  publisher: Ed. 70
+  publisher-place: Lisboa
+  source: K10plus ISBN
+  title: 'A arquitectura de José Baganha: tradição e contemporaneidade'
+  title-short: A arquitectura de José Baganha
+  type: book
+
 - id: costa:2015arquitetura
   call-number: 728x(46-13)
   citation-key: costa:2015arquitetura
@@ -491,6 +687,77 @@ references:
   title-short: Arquitetura tradicional no Mediterrâneo Ocidental
   type: book
 
+- id: cunha:1997medidas
+  abstract: >-
+    O objectivo do estudo do tema proposto é o de contribuir para um
+    aprofundamento do conhecimento da arquitectura antiga que permanece nos
+    núcleos urbanos tradicionais. As edificações são materializadas com base em
+    medidas. Estas estão presentes desde o plano da obra ao dimensionamento dos
+    seus elementos construtivos e decorativos. Portanto, o estudo das medidas
+    utilizadas poderá constituir um dos elementos caracterizadores da
+    arquitectura e constituir uma base segura do conhecimento do edificado
+    visando a sua recuperação. A abordagem do tema das medidas como elemento
+    caracterizador será feita de uma maneira ampla, não se restringindo apenas
+    às dimensões utilizadas a elementos estilísticos que, naturalmente, serão
+    estudados, mas deverão também abarcar os processos construtivos, as
+    tipologias arquitectónicas urbanas e o tipo de parcelamento.
+  author:
+    - family: Cunha
+      given: Rui Maneira
+  citation-key: cunha:1997medidas
+  event-place: Lisboa
+  genre: Dissertação (Mestrado em Reabilitação da Arquitectura e Núcleos Urbanos)
+  issued:
+    - year: 1997
+  language: por
+  number-of-pages: 30 cm
+  publisher: Faculdade de Arquitectura da Universidade Técnica de Lisboa
+  publisher-place: Lisboa
+  title: >-
+    As medidas como elemento caracterizador da arquitectura, entre os séculos
+    <span smallcaps="smallcaps">XIII</span> e <span
+    smallcaps="smallcaps">XVIII</span>, com base na Vila de Monsaraz
+  type: thesis
+
+- id: cunha:2014medidas66-67
+  abstract: >-
+    O Homem associou as dimensões lineares a padrões dimensionais de partes do
+    seu corpo para estabelecer
+
+    sistemas coerentes de medidas. Assumindo os mesmos nomes – dedo, polegada,
+    palma, palmo, pé e côvado – são distintos os comprimentos destas unidades,
+    consoante as culturas e civilizações. As metrologias anteriores ao metro
+    privilegiam a base sexagesimal e duodecimal, em vez da decimal.
+
+
+    Resultando de estudos aritmológicos, caracterizaram‑se os sistemas métricos
+    medievais que detectámos em objectos arquitectónicos localizados no actual
+    território português: o côvado muçulmano, o pé de rei – e a sua variante da
+    quina, utilizada pelos Mestres construtores – e o sistema craveiro
+    português, que perdurou desde a fundação da nacionalidade até à introdução
+    do sistema métrico decimal.
+  accessed:
+    - year: 2024
+      month: 11
+      day: 27
+  author:
+    - family: Cunha
+      given: Rui Maneira
+  citation-key: cunha:2014medidas66-67
+  container-title: Arqueologia & História
+  issued:
+    - year: 2014
+  language: por
+  page: 137-149
+  publisher: Associação dos Arqueólogos Portugueses
+  source: Google Scholar
+  title: 'As medidas na arquitectura: uma perspectiva arqueológica'
+  title-short: As medidas na arquitectura
+  type: article-journal
+  URL: >-
+    https://museuarqueologicodocarmo.pt/publicacoes/arqueologia_historia/serie_13/Vol_66_67/art10_AH_vol66-67.pdf
+  volume: 66-67
+
 - id: debeaux:1994esthetique25
   accessed:
     - year: 2020
@@ -505,7 +772,7 @@ references:
   issue: '1'
   issued:
     - year: 1994
-  language: fr
+  language: fre
   license: free
   page: 186-199
   publisher: Persée - Portail des revues scientifiques en SHS
@@ -610,7 +877,7 @@ references:
     - year: 2011
       month: 6
       day: 14
-  language: pt
+  language: por
   license: Acesso Aberto
   publisher: Universidade Federal de Minas Gerais
   publisher-place: Belo Horizonte
@@ -690,7 +957,7 @@ references:
   ISBN: 978-972-27-1488-4
   issued:
     - year: 2006
-  language: pt
+  language: por
   publisher: Imprensa nacional-Casa da Moeda
   publisher-place: Lisboa
   source: Open WorldCat
@@ -698,7 +965,7 @@ references:
   title-short: Arquitectura portuguesa
   type: book
 
-- id: fletcher:1947introductiona
+- id: fletcher:1947introduction
   abstract: 212 p. 24 cm
   accessed:
     - year: 2021
@@ -707,7 +974,7 @@ references:
   author:
     - family: Fletcher
       given: Donald Atkinson
-  citation-key: fletcher:1947introductiona
+  citation-key: fletcher:1947introduction
   contributor:
     - literal: Internet Archive
   event-place: New York
@@ -852,6 +1119,51 @@ references:
   type: book
   URL: https://www.premiorafaelmanzano.com/pt-pt/publicacoes/
 
+- id: gautier:1697lart
+  abstract: >-
+    Organized as an alphabetical list of objects to be represented by shading
+    and color. The recipes for inks, colors, etc. follow on p. 220-256; Plates
+    signed "P. Giffart" for Pierre Giffart, 1638-1723 (if not his son Pierre
+    François, b. 1677); Signatures: a A-X Y²; 136 leaves; Berlin.
+    Ornamentstichsammlung; Binding: mottled calf. Spine tooled in gilt, title on
+    red label. Page edges red; Old price at head of flyleaf facing t.p.; below
+    it, a signature: Emilio; Authorship uncertain. Attributed by some to Henri
+    (called Hubert) Gautier; Signatures: a⁶ A-X⁸/⁴ Y² [$4/2 signed (
+    -A4,R4,T4,V2,+O4)]; 136 leaves; Berlin. Ornamanentstichsammlung; Fougerolle
+    livres rares. Art, archéologie, architecture, cérémonies, collections,
+    jardins (Bulletin 39 (Oct. 1999)); Catalogo ragionato dei libri d'arte e
+    d'antichità posseduti dal conte Cicognara, 405; Catalogo ragionato dei libri
+    d'arte e d'antichità posseduti dal conte Cicognara, 807
+  accessed:
+    - year: 2017
+      month: 10
+      day: 14
+  author:
+    - family: Gautier
+      given: Henri
+    - family: Giffart
+      given: Pierre
+  call-number: '585378'
+  citation-key: gautier:1697lart
+  event-place: Paris
+  issued:
+    - year: 1697
+  language: fr
+  number-of-pages: '290'
+  publisher: Christophe Ballard
+  publisher-place: Paris
+  source: Internet Archive
+  title: >-
+    L'art de dessiner proprement les plans, profils, elevations geometrales, et
+    perspectives, soit d'architecture militaire ou civile : avec tous les
+    secrets les plus rares pour faire les couleurs avec lesquelles les
+    ingenieurs representent les divers materiaux d'une place : et la maniere de
+    s'en servir dans les vûës des sieges, campements, & autres morceaux de
+    païsage
+  title-short: L'art de dessiner proprement les plans
+  type: book
+  URL: http://archive.org/details/lartdedessinerpr00giff
+
 - id: gonzaga:2006madeira
   author:
     - family: Gonzaga
@@ -895,6 +1207,44 @@ references:
   title: Inventário do Setor Tradicional de Planaltina
   title-short: Inventário de Planaltina
   type: book
+
+- id: jorge:1997arquitectura49
+  abstract: >-
+    As obras da abadia cisterciense de Tarouca iniciaram-se em 1152 e a sagração
+    da igreja
+
+    ocorreu em 1169. Em 1834, a abadia foi secularizada. O interior da igreja
+    reflecte ainda muito do fascínio e do vigor das primeiras manifestações da
+    arquitectura dos Cistercienses, no País. As investigações e o abundante
+    registo de medidas efectuados na igreja permitem reconhecer a utilização de
+    um retículo, de aparente simplicidade, como princípio metodológico para a
+    sua construção. A unidade de medida linear utilizada foi o antigo pé real
+    (“pied du roi”). O módulo fundamental é de 8 pés reais de lado.
+
+    Como verificamos, o templo taraucense obedece ao proporcionamento habitual
+    das igrejas cistercienses de tipo bernardino.
+  accessed:
+    - year: 2024
+      month: 11
+      day: 27
+  author:
+    - family: Jorge
+      given: Virgolino Ferreira
+  citation-key: jorge:1997arquitectura49
+  container-title: Cistercium
+  issue: '208'
+  issued:
+    - year: 1997
+  language: por
+  page: 431–456
+  source: Google Scholar
+  title: >-
+    Arquitectura, medida e número na igreja cisterciense de São João de Tarouca
+    (Portugal)
+  type: article-journal
+  URL: >-
+    https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=2884339
+  volume: '49'
 
 - id: kluppel:2017casa
   abstract: >-
@@ -985,8 +1335,9 @@ references:
   source: repositorio.ufba.br
   title: >-
     A casa e o clima: (trans)formações da arquitetura habitacional no Brasil
-    (século <span smallcaps="smallcaps">XVII</span>–Século <span
-    smallcaps="smallcaps">XIX</span>)
+    (século <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">XVII</span>–Século <span
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XIX</span>)
   title-short: A casa e o clima
   type: thesis
   URL: http://repositorio.ufba.br/ri/handle/ri/24902
@@ -1108,7 +1459,7 @@ references:
   ISBN: 978-85-85134-53-2
   issued:
     - year: 1996
-  language: pt
+  language: por
   publisher: Contexto
   publisher-place: São Paulo
   source: Open WorldCat
@@ -1184,7 +1535,7 @@ references:
       given: Fátima de Macedo
   citation-key: martins:2021arquitetura2
   event-title: Anais do Seminário Arquitetura Vernácula/Popular
-  ISBN: '9786559414796'
+  ISBN: 978-65-5941-479-6
   issued:
     - year: 2021
       month: 12
@@ -1357,6 +1708,86 @@ references:
   title-short: Materiais históricos
   type: book
 
+- id: mentz:1999tradicao
+  abstract: >-
+    A Tradição ceramista Taquara, urn grupo caçador, coletor, pescador e
+    horticultor, ocupou o planalto sul-brasileiro, o litoral Atlântico contíguo
+    e a província argentina de Misiones. Com uma variedade de manifestações
+    arqueológicas, tais como os sítios de campo aberto, os abrigos e cavernas,
+    as galerias subterrâneas, os aterros, as estruturas circulares e complexas,
+    urn destaque para as casas subterrâneas. Construídas nas partes mais
+    elevadas do planalto, de invernos rigorosos, a partir do século V d.C. e
+    mantendo-se até o final do XVII, representam um domínio sobre o meio
+    ambiente. Os portadores da cultura material definida como Taquara, assim
+    poderiam, em melhores condições, explorar um importante alimento, a semente
+    da Araucaria angustifolia. As formas destas habitações são circulares ou
+    elípticas, encontram-se isoladas ou agrupadas em até 68, dimensões médias
+    entre 5 e 8 m de diâmetro e 2 m de altura. Algumas menores poderia ser
+    semi-subterrâneas. La tradición cerámicaTaquara, un grupo cazador,
+    recolector, pescador y horticultor ocupó las llanuras elevadas del sur
+    brasileño, la costa Atlántica aledaña y la provincia argentina de Misiones.
+    Con una variedad de manifestaciones arqueológicas, como por ejemplo sitios
+    del aire libre, abrigos rocosos y cuevas, galerías subterráneas,
+    terraplenes, estructuras circulares complejas, y un énfasis en casas
+    subterráneas. Construidas en las partes más elevadas del altiplano, de
+    fuertes inviernos, comenzaron en el sigloV d.C. y se mantuvieron hasta fines
+    del siglo XVII, representando un dominio sobre el medio ambiente. Los
+    portadores de la cultura material definidores comoTaquara, pudieron así
+    contar con condiciones adecuadas para explorar un alimento importante, la
+    semilla de la Araucaria angustifolia. Las formas de estas habitaciones son
+    circulares o elípticas, encontrándose aisladas o agrupadas hasta en 68
+    unidades, con dimensiones promedio entre 5 y 6 m de diámetro y 2 m de
+    altura. Algunas de las más pequeñas podrían ser semisubterráneas. The
+    Taquara Tradition, a group of hunters, gatherers, fishers and
+    horticulturalists, occupied the high plans of southern Brazil, the
+    neighbouring Atlantic coast and the Argentinian province of Misiones. It had
+    a variety of archaeological manifestations such as open air sites, rock
+    shelters and caves, subterranean galeries, earthworks, complex circular
+    structures and an emphasis on semi-subterranean dwellings. Constructed in
+    the highest parts of the high plateau where winters are hard, they appear in
+    the 5th century A.D. until the 17th century and represent a mastering of the
+    environment. The bearers of the material culture defined as Taquara, were
+    thus able to rely on adequate conditions to search for an important food,
+    the seeds of Araucaria angustifolia. The shapes of these habitations are
+    circular or eliptical. They occur singly or in groups of up to 68 units with
+    dimensions averaging between 5 and 6 meters in diameter and 2 meters high.
+    Some of the smallest ones could be semi-subterranean. La traditionTaquara,
+    un group de chasseurs, cueilleurs, pêcheurs et horticulteurs, occupait les
+    hautes plaines du sud brésilien, la côte Atlantique avoisinante et la
+    province argentine de Misiones. II y avait une variété de manifestations
+    archéologiques tel des sites de plein air, des grottes et des abris, des
+    galeries souterraines, des terrassements, des structures circulaires
+    complexes et une emphase sur des habitations semi-souterraines. Construites
+    dans les zones élevées des hauts plateaux où les hivers sont durs, ils
+    apparaissent du Ve siècle jusqu'au XVIle siècle et représented la maîtrise
+    de l'environnement. Les porteurs de la culture matérielle définie comme
+    Taquara étaient done en mesure de dépendre de conditions adéquates pour
+    chercher pour une nourriture importante, les graines d'Araucaria
+    angustifolia. Les formes des habitations sont circulaires ou elliptiques. On
+    les trouve seules ou en groupe allant jusqu'à 68 unités avec des dimensions
+    moyennes entre 5 et 6 mètres de diamètre et 2 mètres de haut. Quelques unes
+    des plus petites pourraient être semi-souterraines.
+  accessed:
+    - year: 2021
+      month: 12
+      day: 29
+  author:
+    - family: Mentz Ribeiro
+      given: Pedro Augusto
+  citation-key: mentz:1999tradicao
+  container-title: Revista de Arqueología Americana
+  ISSN: 0188-3631
+  issue: 17/18/19
+  issued:
+    - year: 1999
+  language: por
+  page: 9-49
+  publisher: Pan American Institute of Geography and History
+  source: JSTOR
+  title: A tradição taquara e as casas subterrâneas no sul do Brasil
+  type: article-journal
+  URL: https://www.jstor.org/stable/27768433
+
 - id: mesquita:2017cidades
   author:
     - family: Mesquita
@@ -1366,7 +1797,7 @@ references:
   ISBN: 978-85-7858-555-6
   issued:
     - year: 2017
-  language: pt-BR
+  language: por
   number-of-pages: '226'
   publisher: CEPE
   publisher-place: Recife
@@ -1374,6 +1805,31 @@ references:
   title: 'Cidades do nordeste: do pote à rua: métodos construtivos tradicionais'
   title-short: Cidades do nordeste
   type: book
+
+- id: minifie:1849text
+  abstract: vi, [7]-127 p. 26 cm
+  accessed:
+    - year: 2025
+      month: 2
+      day: 13
+  author:
+    - family: Minifie
+      given: William
+  call-number: '8673059'
+  citation-key: minifie:1849text
+  contributor:
+    - literal: The Library of Congress
+  issued:
+    - year: 1849
+  language: eng
+  number-of-pages: '258'
+  publisher: Baltimore, W. Minifie & co.
+  source: Internet Archive
+  title: >-
+    A text book of geometrical drawing, for the use of mechanics and schools, in
+    which the definitions and rules of geometry are familiarly explained
+  type: book
+  URL: http://archive.org/details/textbookofgeomet01mini
 
 - id: minke:2015manual
   author:
@@ -1407,7 +1863,7 @@ references:
   ISBN: 978-0-7864-1806-0
   issued:
     - year: 2004
-  language: en
+  language: eng
   number-of-pages: '207'
   number-of-volumes: '1'
   publisher: McFarland & company
@@ -1418,6 +1874,58 @@ references:
     techniques of Neo-Mudéjar architecture
   title-short: The Islamic design module in Latin America
   type: book
+
+- id: morais:2022geometria
+  abstract: >-
+    Las termas romanas de la ciudad de Évora, descubiertas en 1987 e integradas
+    en el edificio actual de los Paços do Concelho, resultaron ser uno de los
+    ejemplos más importantes de esta tipología a nivel nacional. Esta estructura
+    estaba ubicada cerca del Foro y se afirmó como uno de los edificios públicos
+    más importantes de la ciudad. Con la intervención arqueológica de 2019, se
+    lograron registrar y estudiar nuevas estructuras en el complejo. Varias
+    investigaciones sugieren que la arquitectura de este periodo utiliza un
+    vasto conjunto de reglas geométricas y espaciales para hacer que el espacio
+    sea armonioso y sensorialmente agradable para la experiencia humana. En este
+    sentido, el presente estudio se propone analizar este conjunto termal,
+    utilizando la geometría para tratar de comprender mejor su organización
+    espacial y volumétrica y también la forma en que dicho conjunto se
+    relacionaba con el contexto urbano de la época.[pt] As termas romanas da
+    cidade de Évora, descobertas em 1987 e integradas no actual edifício dos
+    Paços do Concelho, revelaram-se um dos mais importantes exemplares desta
+    tipologia a nível nacional. Esta estrutura localizava-se próximo do Forum e
+    afirmava-se como um dos mais importantes edifícios públicos da cidade. Com a
+    intervenção arqueológica de 2019, foi possível registar e estudar novas
+    estruturas do complexo. Várias pesquisas sugerem que a arquitectura deste
+    período utiliza um vasto conjunto de regras geométricas e espaciais de forma
+    a tornar o espaço harmonioso e sensorialmente agradável à vivência humana.
+    Nesse sentido, o presente estudo propõe-se fazer uma análise deste complexo
+    termal, utilizando a geometria para tentar compreender melhor a sua
+    organização espacial e volumétrica e também a forma como o referido complexo
+    se relacionava com o contexto urbano da época.
+  accessed:
+    - year: 2024
+      month: 3
+      day: 24
+  author:
+    - family: De Morais Sarmento
+      given: Ricardo
+  citation-key: morais:2022geometria
+  container-title: Arqueología de la Arquitectura
+  container-title-short: arq.arqt
+  DOI: 10.3989/arq.arqt.2022.007
+  ISSN: 1989-5313, 1695-2731
+  issue: '19'
+  issued:
+    - year: 2022
+      month: 7
+      day: 5
+  language: por
+  page: e130
+  source: DOI.org (Crossref)
+  title: 'A geometria aplicada à Évora romana: da malha urbana às termas'
+  title-short: A geometria aplicada à Évora romana
+  type: article-journal
+  URL: https://arqarqt.revistas.csic.es/index.php/arqarqt/article/view/296
 
 - id: moreira:1793regras
   author:
@@ -1477,6 +1985,80 @@ references:
   title: Arquitetura e construção com terra no Brasil
   type: book
 
+- id: nimuendaju:1987mapa
+  accessed:
+    - year: 2017
+      month: 5
+      day: 28
+  author:
+    - family: Nimuendaju
+      given: Curt
+  call-number: 572.9(81=98)-M297m
+  citation-key: nimuendaju:1987mapa
+  edition: Edição fac-similar
+  editor:
+    - literal: IBGE
+  event-place: 'Brasília : Rio de Janeiro'
+  ISBN: 85-240-0882-2
+  issued:
+    - year: 1987
+  language: por
+  publisher: 'IBGE : FNPM'
+  publisher-place: 'Brasília : Rio de Janeiro'
+  title: Mapa etno-histórico de Curt Nimuendaju
+  type: book
+  URL: >-
+    http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=281619
+
+- id: oikonomou:2021use
+  abstract: >-
+    The article has as its main purpose the detailed investigation of the
+    geometric methods of tracing historical structures, using a variety of
+    examples. The design and construction of historic buildings has long been
+    the subject of extensive research. However, the application of geometry to
+    the constructional tracing of basic building elements is a relatively
+    unknown field of science.The methodology is primarily concerned with
+    presenting the broader scientific context and analysing the design and
+    tracing of structures. Through examples covering a wide range of times —
+    from ancient Egypt, ancient Greece, Roman times, Byzantium, Islamic
+    architecture, to the western Middle Ages and the Renaissance — it is proven
+    that two distinct methods are historically used in design and construction:
+    the first relates to geometrical constructions based on the use of circles,
+    squares and equilateral triangles (ad quadratum and ad triangulum), while
+    the second relates to pure modular systems with the help of pythagorean
+    triangles for the rectangular tracing of building elements. For the
+    understanding of the two methods, basic tracing and construction control
+    tools are presented and different historical metric systems are
+    analysed.Through the analysis of the examples the basic design principles of
+    historical architecture are revealed and the geometrical methods used by
+    building guilds are inscribed. In this way, the importance of architectural
+    models and the role of particular knowledge of geometry in the construction
+    and the final form of historical structures are crystallised.
+  accessed:
+    - year: 2021
+      month: 6
+      day: 27
+  author:
+    - family: Oikonomou
+      given: Aineias
+  citation-key: oikonomou:2021use
+  container-title: International Journal of Architectural Heritage
+  DOI: 10.1080/15583058.2021.1899339
+  ISSN: 1558-3058
+  issued:
+    - year: 2021
+      month: 3
+      day: 29
+  language: eng
+  page: 1-21
+  publisher: Taylor & Francis
+  source: Taylor and Francis+NEJM
+  title: >-
+    The use of geometrical tracing, module and proportions in design and
+    construction, from Antiquity to the 18^th^ century
+  type: article-journal
+  URL: https://doi.org/10.1080/15583058.2021.1899339
+
 - id: oliveira:1992arquitectura
   author:
     - family: Oliveira
@@ -1516,7 +2098,7 @@ references:
   issue: '1'
   issued:
     - year: 2001
-  language: pt
+  language: por
   page: 55-76
   source: SciELO
   title: >-
@@ -1554,6 +2136,65 @@ references:
   title: Arquitectura tradicional portuguesa
   type: book
 
+- id: oliveira:2015uso
+  abstract: >-
+    This text presents bibliographical evidences of the existence and scope of a
+    common color code used on military map-making in three colonial empires from
+    the late 1600s. Apparently deriving from Gautier’s treaty (1687), a set of
+    chromatic standards was used in order to unify the representation of reality
+    in either descriptive or normative documents, and both in metropolis and
+    colonies. In the lusophone world, it was chief engineer Manoel de Azevedo
+    Fortes (1722; 1729) who first incorporated these teachings used in the
+    training of military engineers, professionals whose didactic and
+    professional exchanges helped propagate treaties such as Gautier’s and the
+    specially impactful Buchotte’s (1722). This uniformity in watercolor
+    techniques means  today  that  there  is  a  broad  interpretation  code, 
+    whose  effectiveness  is  threatened  by  a  documentary  conservation 
+    challenge, specially in regards to green copper pigments such as verdigris:
+    these pigments are not chemically stable and not only  they  tend  to 
+    loose  their  original  color  but  they  also  may  corrode  the  paper 
+    itself,  which  supports  the  information.  It  is  precisely  this 
+    information  what  is  at  stake:  a  “simple”  color  change  is  actually 
+    a  rather  complex  issue,  considering  that  an  originally green area,
+    possibly representing bodies of water for instance, may be incorrectly
+    comprehended as a different terrain, because of its browning. In short,
+    there is a risk of aesthetic and historical information loss as a result of
+    processes of decay of a chemical nature requiring attention of a similar
+    nature.
+  accessed:
+    - year: 2020
+      month: 5
+      day: 27
+  author:
+    - family: Oliveira
+      given: Juliana Buse
+      dropping-particle: de
+    - family: Melo
+      given: Maria João
+    - family: Casanova
+      given: Maria da Conceição Lopes
+  citation-key: oliveira:2015uso
+  container-title: Atas...
+  event-place: Porto
+  event-title: VI Simpósio Luso-brasileiro de Cartografia Histórica
+  ISBN: 978-989-8648-56-3
+  issued:
+    - year: 2015
+  language: por
+  publisher: Faculdade de Letras da Universidade do Porto
+  publisher-place: Porto
+  source: repositorio.ufc.br
+  title: >-
+    O uso de um código comum de cores em mapas militares pelos impérios
+    coloniais francês, português e espanhol (sécs. XVII-XVIII) e a perda de
+    informações: consequências da degradação documental
+  title-short: >-
+    O uso de um código comum de cores em mapas militares pelos impérios
+    coloniais francês, português e espanhol (sécs. XVII-XVIII) e a perda de
+    informações
+  type: paper-conference
+  URL: http://www.repositorio.ufc.br/handle/riufc/22709
+
 - id: padovan:1999proportion
   author:
     - family: Padovan
@@ -1564,7 +2205,7 @@ references:
   ISBN: 978-0-419-22780-9
   issued:
     - year: 1999
-  language: en
+  language: eng
   number-of-pages: '388'
   publisher: E & FN Spon
   publisher-place: London ; New York
@@ -1649,17 +2290,15 @@ references:
       given: Marco Antônio Penido
       dropping-particle: de
   event-place: Salvador ; Belo Horizonte
-  ISBN: '9786556303376'
+  ISBN: 978-65-5630-337-6
   issued:
     - year: 2022
-  language: pt
+  language: por
   license: >-
     Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
     License (CC-BY-NC-SA)
   page: 283-302
-  publisher: >-
-    Editora <span smallcaps="smallcaps">UFBA</span> : Editora <span
-    smallcaps="smallcaps">UFMG</span>
+  publisher: 'Editora UFBA : Editora UFMG'
   publisher-place: Salvador ; Belo Horizonte
   title: 'A casa corrente de 40 palmos (± 2): um tipo português da idade liberal'
   title-short: A casa corrente de 40 palmos
@@ -1704,7 +2343,7 @@ references:
   event-title: >-
     V Seminário Internacional da Academia das Escolas de Arquitetura e Urbanismo
     de Língua Portuguesa
-  ISBN: 978-989-53-4625-7
+  ISBN: 978-989-53462-5-7
   issued:
     - year: 2023
       month: 12
@@ -1833,6 +2472,54 @@ references:
   title: Técnicas construtivas vernaculares no Brasil
   type: chapter
   URL: https://rio.upo.es/xmlui/handle/10433/5650
+
+- id: pereira:2015traco
+  abstract: >-
+    The aim of this work is to clarify the metaphysical implications of the use
+    of geometryin sacred architecture, both in general and in the particular
+    case of the church of Santa MariaMaior, Lisbon Cathedral.It begins with a
+    research on the connections between geometry, architecture and thesacred, in
+    order to show in what ways sacred architecture and sacred geometry
+    cometogether in a scheme which regulates the physical, architectural form
+    according tometaphysical principles.It is followed by a brief account of the
+    cathedral's history that will inform itsgeometrical analysis. Knowing its
+    physical evolution and the historical context of the mainconstruction phases
+    will help evaluating the validity of the analysis' results.The geometrical
+    analysis shows two very convincing geometric schemes: one for theRomanesque
+    church and another for the gothic ambulatory. The Romanesque scheme isbased
+    on the ad quadratum development of a square with a side of 7,7m centred on
+    thecrossing. The gothic work is defined by a scheme of inscribed heptagrams
+    traced around themain chapel's 7-sided apse. The metaphysical value of the
+    first scheme is the underlyingreflection on the foundation of the World,
+    which is symbolically repeated in the foundationof the church. The value of
+    the second scheme is not so clear to read, but it may be related tothe
+    incredible symbolic power of the number Seven.
+  accessed:
+    - year: 2025
+      month: 2
+      day: 13
+  author:
+    - family: Pereira
+      given: Miguel Valido Chaves
+  citation-key: pereira:2015traco
+  event-place: Porto
+  genre: Dissertação (Mestrado em Arquitectura)
+  issued:
+    - year: 2015
+      month: 11
+      day: 5
+  language: por
+  license: openAccess
+  number-of-pages: '96'
+  publisher: Universidade do Porto, Faculdade de Arquitectura
+  publisher-place: Porto
+  source: repositorio-aberto.up.pt
+  title: >-
+    O Traço Divino: a geometria como instrumento de sacralização do espaço na
+    igreja de Santa Maria Maior
+  title-short: O Traço Divino
+  type: thesis
+  URL: https://repositorio-aberto.up.pt/handle/10216/80688
 
 - id: peres:2015influencia
   abstract: >-
@@ -2090,7 +2777,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1972
-  language: pt
+  language: por
   publisher: Perspectiva
   publisher-place: São Paulo
   source: Open WorldCat
@@ -2207,6 +2894,24 @@ references:
   URL: https://portalseer.ufba.br/index.php/pculturais/article/view/9896
   volume: '6'
 
+- id: santarella:2015historia
+  accessed:
+    - year: 2025
+      month: 3
+      day: 8
+  author:
+    - family: Santarella
+      given: Thiago
+  citation-key: santarella:2015historia
+  container-title: Diário Catarinense
+  issued:
+    - year: 2015
+  language: por
+  title: 'História revelada: Origens de um povo catarinense'
+  title-short: Origens de um povo catarinense
+  type: webpage
+  URL: https://www.clicrbs.com.br/sites/swf/dc_historiasreveladas/index.html
+
 - id: santiago:2007argamassas
   accessed:
     - year: 2019
@@ -2248,6 +2953,29 @@ references:
   source: Open WorldCat
   title: Edificações
   type: book
+
+- id: sequeira:1858nocoes
+  accessed:
+    - year: 2020
+      month: 6
+      day: 2
+  author:
+    - family: Sequeira
+      given: José da Costa
+  citation-key: sequeira:1858nocoes
+  event-place: Lisboa
+  issued:
+    - year: 1858
+  language: por
+  number-of-volumes: '2'
+  publisher: Typ. de José Baptista Morando
+  publisher-place: Lisboa
+  source: catalogo.bn.pt Library Catalog
+  title: >-
+    Noções theoricas de archuitectura civil, seguidas de um breve tractado das
+    cinco ordens de J. B. Vinhola
+  type: book
+  URL: https://permalinkbnd.bnportugal.gov.pt/idurl/1/248880
 
 - id: severo:1912origens
   author:
@@ -2553,9 +3281,9 @@ references:
   ISBN: 978-85-7103-186-9
   issued:
     - year: 2003
-  language: pt-BR
+  language: por
   number-of-pages: '257'
-  publisher: Editora <span smallcaps="smallcaps">ucg</span>
+  publisher: Editora UCG
   publisher-place: Goiânia
   source: Library of Congress ISBN
   title: 'A casa goiana: documentação arquitetônica'
@@ -2654,6 +3382,62 @@ references:
   title-short: Algumas medidas lineares medievais portuguesas
   type: article-journal
   URL: https://repositorio.uac.pt/handle/10400.3/294
+
+- id: vignola:1876regras
+  abstract: 'vii, 154 p., 82, 6 leaves of plates : 21 cm'
+  accessed:
+    - year: 2019
+      month: 2
+      day: 21
+  author:
+    - family: Vignola
+      given: Giacomo Barozzi
+      dropping-particle: da
+    - family: Andrade
+      given: José Calheiros de Magalhães
+      dropping-particle: e
+  call-number: '9929069290001551'
+  citation-key: vignola:1876regras
+  contributor:
+    - literal: Getty Research Institute
+  edition: '6'
+  event-place: Lisboa
+  issued:
+    - year: 1876
+  language: por
+  number-of-pages: '362'
+  publisher: Typographia Universal
+  publisher-place: Lisboa
+  source: Internet Archive
+  title: >-
+    Regras das cinco ordens de architectura segundo os principios de Vignhola :
+    com um ensaio sobre as mesmas ordens feito sobre o sentimento dos mais
+    celebres architectos
+  title-short: Regras das cinco ordens de architectura segundo os principios de Vignhola
+  type: book
+  URL: http://archive.org/details/regrasdascincoor00vign
+
+- id: warner:1954applied
+  abstract: 247 p. 24 cm
+  accessed:
+    - year: 2023
+      month: 12
+      day: 20
+  author:
+    - family: Warner
+      given: Frank M. (Frank Melville)
+  citation-key: warner:1954applied
+  contributor:
+    - literal: Internet Archive
+  issued:
+    - year: 1954
+  language: eng
+  number-of-pages: '266'
+  publisher: New York, McGraw-Hill
+  source: Internet Archive
+  title: Applied descriptive geometry with drafting-room problems
+  type: book
+  URL: http://archive.org/details/applieddescripti0004warn
 
 - id: weimer:2005arquitetura
   author:

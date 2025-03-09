@@ -1,4 +1,4 @@
-from            : markdown+raw_tex+escaped_line_breaks
+from            : markdown+raw_tex
 to              : latex
 standalone      : true
 file-scope      : true
@@ -9,42 +9,58 @@ filters:
   - pandoc-crossref
   - citeproc
   - pandoc-include
+toc-depth       : 1
 metadata:
   lang          : pt-PT
-  toc           : true
   toc-title     : "Índice"
-  toc-depth     : 1
 number-sections : true
-template        : _lib/default.latex
+template        : "default.latex"
 variables:
-  documentclass : report
-  fontsize: 12pt
+  secnumdepth   : 2
+  classoption:
+    - oneside
+  fontsize      : 12pt
+  fontfamily    : ebgaramond
+  fontfamilyoptions:
+    - oldstyle
+    - proportional
+    - semibold
+  geometry:
+    #- showframe
+    - a5paper
+    - width=120mm
+    - top=25mm
+    - bottom=25mm
+    - bindingoffset=0mm
+  indent: true
+  papersize: a5
   header-includes: |
-    \usepackage[p,osf]{ebgaramond}
+    \usepackage[dvipsnames]{xcolor}
 
     \usepackage{multicol}
     \setlength{\columnsep}{15pt}
-
     \usepackage{csquotes}
     \usepackage[overload]{textcase}
-    \let\oldsc\textsc
-    \renewcommand{\textsc}[1]{\oldsc{\MakeLowercase{#1}}}
+    \newcommand\allsc[1]{\textsc{\MakeTextLowercase{#1}}}
 
     \usepackage{titling}
-    \pretitle{\begin{flushleft}\Huge}
-    \posttitle{\end{flushleft}\vspace{2em}}
-    \preauthor{\begin{flushleft}\Large}
-    \postauthor{\par\end{flushleft}}
-    \predate{\begin{flushleft}\large}
-    \postdate{\end{flushleft} \vfill}
+    \usepackage{setspace}
+    \pretitle{\begin{center}\setstretch{1.4}}
+    \posttitle{\end{center}}
+    \preauthor{\vspace{-4ex}\begin{center}\setstretch{1.2}}
+    \postauthor{\par\end{center}\vspace{-5ex}}
+    \predate{\begin{center} \Large Braſília, primeiro ſeme\char"FB05re de \linebreak \LARGE}
+    \postdate{\end{center} \vfill}
+    \setlength{\droptitle}{-15ex}
 
-    \usepackage{titlesec,titletoc}
+    \usepackage{titletoc}
     \titlecontents{chapter}[0pt]{\addvspace{1em} \large}{\thecontentslabel \quad\enspace{\hspace*{-0.2em}}}{}{\titlerule*[0.25pc]{ }\thecontentspage}[\addvspace{1em}]
-    \titlecontents{section}[0pt]{\itshape}{\thecontentslabel \quad{\hspace*{-0.2em}}}{}{\titlerule*[0.25pc]{ }\thecontentspage}[\addvspace{0.5em}]
-    \titleformat{\chapter}[display]{}{}{0pt}{\relax\huge}[\vspace{2em}]
-    \titleformat{\section}[hang]{\normalfont\Large\itshape}{\thesection}{1em}{}[]
-    \titleformat{\subsection}[hang]{\normalfont\large\itshape}{}{1em}{}[]
-    \titleformat{\paragraph}[runin]{\normalfont\scshape}{}{0pt}{}[]
+    \usepackage[rm,center,uppercase,explicit]{titlesec}
+    \titleformat{name=\chapter,numberless}[display]{\begin{center}}{\huge \MakeUppercase{#1}}{1ex}{}[\end{center}]
+    \titleformat{\chapter}[display]{\begin{center}}{\huge\liningnums{\thechapter} \linebreak \MakeUppercase{#1}}{1ex}{}[\end{center}]
+    \titleformat{\section}[block]{\begin{center}\Large}{\liningnums{\thesection \quad \MakeUppercase{#1}}}{1em}{}[\end{center}]
+    \titleformat{\subsection}[block]{\begin{center}\large}{\thesubsection \quad \allsc{#1}}{1em}{}[\end{center}]
+    \titleformat{\paragraph}[runin]{}{\textsc{#1}}{0pt}{}[]
     \titlespacing{\paragraph}{0pt}{1em}{0.5ex}
     
     \usepackage{enumitem}
@@ -52,6 +68,8 @@ variables:
     \setlist[itemize,1]{label=$›$}
 
     \usepackage{fancyhdr}
-  indent: true
-  papersize: a4
-  secnumdepth: 1
+  include-before: |
+    \pagestyle{fancy}
+    \fancyhf{}
+    \rhead{\allsc{PRO} 0049 › 1.º/2025}
+    \rfoot{\thepage}
