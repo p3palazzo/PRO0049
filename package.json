@@ -1,0 +1,35 @@
+{
+	"name": "PRO0049",
+	"version": "1.0.0",
+	"description": "Método luso-brasileiro de arquitetura tradicional",
+	"homepage": "https://tradicional.arq.br",
+	"main": "dist/reveal.js",
+	"module": "dist/reveal.esm.js",
+	"keywords": [
+		"arquitetura tradicional",
+		"ensino de arquitetura",
+		"construção vernacular",
+		"tradição luso-brasileira"
+	],
+	"author": {
+		"name": "Pedro P. Palazzo",
+		"email": "palazzo@unb.br",
+		"web": "https://palazzo.pt"
+	},
+	"license": "CC_BY",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/p3palazzo/PRO0049.git"
+	},
+	"scripts": {
+		"start": "npx http-server -a 127.0.0.1"
+	},
+	"engines": {
+		"node": ">=18.0.0"
+	},
+	"browserslist": "> 2%, not dead",
+	"dependencies": {
+		"http-server": "^14.1.1",
+		"reveal.js": "^5.1.0"
+	}
+}

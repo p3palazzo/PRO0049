@@ -1,0 +1,28 @@
+from            : "markdown+tex_math_single_backslash"
+to              : "revealjs"
+fail-if-warnings: false
+file-scope      : true
+filters:
+  - pandoc-crossref
+  - citeproc
+metadata:
+  author      : "Pedro P. Palazzo"
+  bibliography: "_data/biblio.yaml"
+  crossrefYaml: "_data/revealjs-crossref.yaml"
+  csl         : "_data/modern-language-association.csl"
+  css         : "../css/revealjs-main.css"
+  lang        : "pt-PT"
+  toc         : true
+  suppress-bibliography: true
+slide-level   : 2
+standalone    : true
+toc-depth     : 1
+variables:
+  controls    : true
+  hash        : true
+  progress    : true
+  revealjs-url: "../node_modules/reveal.js"
+  width       : 1920
+  height      : 1080
+  hashOneBasedIndex: true
+  backgroundTransition: "slide"
