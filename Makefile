@@ -6,6 +6,7 @@ SLIDES  = $(patsubst docs/%.md,slides-%/index.html,$(DOCS))
 
 # {{{1 Recipes
 #      =======
+.PHONY : local-server
 local-server : $(SLIDES)
 
 plano.pdf : plano.md article.yaml bibliografia.yaml

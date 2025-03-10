@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+/* ==========================================================================
+   Font providers {{{1
+   ========================================================================== */
+
+@import url("https://use.typekit.net/pvt7oue.css");
+@import url("https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+// First, load default mixins and settings -----
+// Then override theme settings ----------------
+@import "../node_modules/reveal.js/css/theme/template/mixins",
+        "../node_modules/reveal.js/css/theme/template/settings";
+
+$font-family-serif:    source-serif-4, Georgia, serif;
+$font-family-narrow:   open-sans-condensed, "Arial Narrow", sans-serif;
+$headings-font-family: source-serif-4-display, Georgia, serif;
+$font-family-legend:   source-serif-4-caption, Georgia, serif;
+
+$mainFont: $font-family-serif;
+$mainFontSize: 24px;
+$headingFont: $headings-font-family;
+$headingFontWeight: 400;
+$headingTextTransform: none;
+$backgroundColor: rgb(255, 255, 248);
+$mainColor: rgb(17, 17, 24);
+$headingColor: rgb(5, 44, 101);
+$linkColor: rgb(110, 168, 254);
+
+@import "../node_modules/reveal.js/css/theme/template/theme";
+
+html {
+  font-variant: oldstyle-nums proportional-nums;
+}
+
+.reveal {
+  figure img {
+    max-width: 1600px;
+    max-height: 800px;
+  }
+}
+
+figcaption {
+  font-family: $font-family-legend;
+}
+
+.d-none {
+  display: none;
+}
+
+span.smallcaps {
+  font-variant: all-small-caps;
+  font-variant-numeric: oldstyle-nums;
+}

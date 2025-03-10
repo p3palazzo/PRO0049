@@ -10,7 +10,7 @@ metadata:
   bibliography: "_data/biblio.yaml"
   crossrefYaml: "_data/revealjs-crossref.yaml"
   csl         : "_data/modern-language-association.csl"
-  css         : "../css/revealjs-main.css"
+  css         : "../css/slides.css"
   lang        : "pt-PT"
   toc         : true
   suppress-bibliography: true
