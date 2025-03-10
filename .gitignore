@@ -1,5 +1,7 @@
 _out
 node_modules
+slides-*
+css
 
 ## Core latex/pdflatex auxiliary files:
 *.aux

@@ -1,4 +1,12 @@
-vpath %.yaml .:_spec
+# {{{1 Variables
+#      =========
+vpath %.yaml .:_data
+DOCS    = $(wildcard docs/*.md)
+SLIDES  = $(patsubst docs/%.md,slides-%/index.html,$(DOCS))
+
+# {{{1 Recipes
+#      =======
+local-server : $(SLIDES)
 
 plano.pdf : plano.md article.yaml bibliografia.yaml
 	pandoc -o $@ -d _spec/article.yaml $<
