@@ -439,31 +439,31 @@ encontrarem no Google ou no Pinterest estão \textsc{errados} !
 
 Table: Cronograma da disciplina
 
-| Aula |  Data | Conteúdo                                                             |
-|:----:|:-----:|:---------------------------------------------------------------------|
-|   1  | 28/03 | Aula pública de abertura. Introdução à disciplina                    |
-|   2  | 04/04 | Geometria, proporções e modularidade                                 |
-|      |       | \textsc{Trabalho em sala : Pequena decoração}                        |
-|   3  | 11/04 | Materiais tradicionais. Fundações. Alvenaria comum                   |
-|      |       | \textsc{Trabalho : Tulha}                                            |
-|      | 18/04 | Feriado                                                              |
-|   4  | 25/04 | Adobes e tijolos. Pedra aparelhada. Parede mista. Vãos, pingadeiras. |
-|      | 02/05 | Recesso                                                              |
-|   5  | 09/05 | Coberturas. Forros. Beirais. Arcos. Azulejaria. Revestimentos        |
-|   6  | 16/05 | Produção, entrega e revisão do \textsc{Trabalho : Tulha}             |
-|   7  | 23/05 | Arquitetura clássica. Ordens segundo Vinhola. Fractal. Cânones       |
-|      |       | \textsc{Trabalho : Chafariz}                                         |
-|   8  | 30/05 | Elementos complementares. Justaposição e sobreposição. Estilos       |
-|   9  | 06/06 | Detalhamento e representação. Ornamentos. Desenho analítico          |
-|  10  | 13/06 | Produção, entrega e revisão do \textsc{Trabalho : Chafariz}          |
-|      | 20/06 | Recesso                                                              |
-|  11  | 27/06 | Tipologia de casas. Popular e vernáculo. Clima e cultura             |
-|      |       | \textsc{Trabalho : Casa popular}                                     |
-|  12  | 04/07 | Espacialidade tradicional. Limiares. Decoro. Interiores              |
-|  13  | 11/07 | Artes aplicadas. Laçaria. Talha. Azulejaria. Pintura mural           |
-|      |       | Diagramação e arte-finalização de pranchas                           |
-|  14  | 18/07 | Produção, entrega e revisão do \textsc{Trabalho : Casa popular}      |
-|  15  | 25/07 | Exposição e avaliação dos trabalhos                                  |
+| Aula |  Data | Conteúdo                                                        |
+|:----:|:-----:|:----------------------------------------------------------------|
+|   1  | 27/03 | Aula pública de abertura. Introdução à disciplina               |
+|   2  | 03/04 | Geometria, proporções e modularidade                            |
+|      |       | \textsc{Trabalho em sala : Pequena decoração}                   |
+|   3  | 10/04 | Materiais tradicionais. Fundações. Alvenaria comum              |
+|      |       | \textsc{Trabalho : Tulha}                                       |
+|   4  | 17/04 | Adobes e tijolos. Pedra aparelhada. Parede mista.               |
+|   5  | 24/04 | Vãos, pingadeiras. Arcos. Revestimentos de paredes.             |
+|      | 01/05 | Recesso                                                         |
+|   6  | 08/05 | Coberturas. Forros. Beirais. Azulejaria.                        |
+|   7  | 15/05 | Produção, entrega e revisão do \textsc{Trabalho : Tulha}        |
+|   8  | 22/05 | Arquitetura clássica. Ordens segundo Vinhola. Fractal. Cânones  |
+|      |       | \textsc{Trabalho : Chafariz}                                    |
+|   9  | 29/05 | Elementos complementares. Justaposição e sobreposição. Estilos  |
+|  10  | 05/06 | Detalhamento e representação. Ornamentos. Desenho analítico     |
+|  11  | 12/06 | Produção, entrega e revisão do \textsc{Trabalho : Chafariz}     |
+|      | 19/06 | Recesso                                                         |
+|  12  | 26/06 | Tipologia de casas. Popular e vernáculo. Clima e cultura        |
+|      |       | \textsc{Trabalho : Casa popular}                                |
+|  13  | 03/07 | Espacialidade tradicional. Limiares. Decoro. Interiores         |
+|  14  | 10/07 | Artes aplicadas. Laçaria. Talha. Azulejaria. Pintura mural      |
+|      |       | Diagramação e arte-finalização de pranchas                      |
+|  15  | 17/07 | Produção, entrega e revisão do \textsc{Trabalho : Casa popular} |
+|  16  | 24/07 | Exposição e avaliação dos trabalhos                             |
 
 
 # Bibliografia de referência #

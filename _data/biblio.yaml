@@ -28,6 +28,24 @@ references:
   type: book
   volume: '2'
 
+- id: alvim:1997arquitetura
+  author:
+    - family: Alvim
+      given: Sandra P. de Faria
+  citation-key: alvim:1997arquitetura
+  event-place: Rio de Janeiro
+  ISBN: >-
+    85-7334-007-X 978-85-7334-007-5 85-7108-150-6 978-85-7108-150-5
+    978-85-7108-387-5 85-7108-387-8
+  issued:
+    - year: 1997
+  language: pt-BR
+  publisher: 'Editora UFRJ : IPHAN : Prefeitura da Cidade do Rio de Janeiro'
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: Arquitetura religiosa colonial no Rio de Janeiro
+  type: book
+
 - id: amaral:1961arquitectura
   citation-key: amaral:1961arquitectura
   editor:
@@ -335,6 +353,48 @@ references:
   type: book
   volume: '1'
 
+- id: belik:2021paxiuba
+  abstract: >-
+    This paper explores the traditional construction method of building with
+    paxiúba (Socratea exorrhiza) in the Amazon—more specifically in the
+    Brazilian state of Acre. This type of palm tree is native to Central and
+    South America, and is commonly used in the construction of vernacular
+    houses. Originally employed by local indigenous villages, paxiúba was
+    popular not only because of the abundance of raw material, but also due to
+    how easy it is to work. With the arrival of latex farmers to the Amazon in
+    the early twentieth century, paxiúba started to be used in early
+    non-indigenous settlements, becoming a construction material associated with
+    the infrastructure of resource extraction in early stages of territorial
+    occupation. Today few houses built of paxiúba remain in Acre. Despite
+    changes in building material, newly built residences nonetheless retain the
+    floor plans and construction methods inherited from traditional paxiúba
+    houses, notwithstanding different spatial uses and settlement locations in
+    dense, urbanized areas far from the isolated forests or farming settlements
+    of their predecessors.
+  accessed:
+    - year: 2021
+      month: 10
+      day: 20
+  author:
+    - family: Belik
+      given: Laura
+  citation-key: belik:2021paxiuba
+  container-title: Architectural Theory Review
+  DOI: 10.1080/13264826.2021.1973047
+  ISSN: 1326-4826
+  issued:
+    - year: 2021
+      month: 10
+      day: 5
+  language: en
+  page: 1-16
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: 'Paxiúba: traditional housing in the western Amazon'
+  title-short: Paxiúba
+  type: article-journal
+  URL: https://doi.org/10.1080/13264826.2021.1973047
+
 - id: benitez:2025enigma
   abstract: >-
     Esta historia contiene un espía, un tesoro con más de dos mil años de
@@ -450,6 +510,83 @@ references:
   publisher-place: Brasília
   title: 'Manual prático: uso da cal'
   type: book
+
+- id: borges:2015vernaculares
+  abstract: >-
+    The farm’s rural dwellings of creation from the Seridó Potiguar microregion,
+    built in the nineteenth century, became a reference by its vernacular
+    character, i.e. these buildings, besides having recognized relevance to the
+    identity of the region, they are adapted to the conditions of the place in
+    many aspects (economic, cultural, construction, physical, et.) and consist
+    in protective spaces in relation to hostile characteristics of Seridó’s
+    climate. Considering the above premise, the following question arises: What
+    characteristics of the nineteenth century Seridó Potiguar’s cattle farms are
+    crucial for them to be a protective space in relation to the semiarid
+    climate? In order to answer the question, this research aim to identify
+    which particularities of the Seridó’s farmhouses that contribute to
+    adaptability in these buildings to semiarid climate, as protection
+    environments; and contribute to the stock valuation of the architectural
+    heritage concerned. Therefore, procedures were adopted divided into two
+    stages. Were first identified the recurring characteristics in the studied
+    buildings, through typological study performed from existing inventories
+    (DINIZ, 2008; FEIJÓ, 2002; IPHAN, 2012). To define the type it worked up
+    with the concept that merges Durand’s analytical typology that identifies
+    the similarities and differences to classify buildings, having the character
+    of historical survey and architectural documentation, with the definition
+    proposed by Argan (1963) that the type is not defined a priory, but the
+    deduction from a number of illustrative cases which have formal and
+    functional similarity with each other. Then worked up in a sample of five
+    different types with each other, defined by the possibility of access to the
+    interior of the houses, proximity to other copies, good state of
+    conservation and preservation. The contemplated farms were: Pitombeiras,
+    Agenus e Garrotes in Acari’s town, and the municipality of Caicó, Palma and
+    Penedo. The second stage consists of the architectural survey, photographic
+    record, digital three-dimensional modeling (aiming to expand the existing
+    documentation and registration) and thermal monitoring over approximately a
+    representative day in five farmhouses, relating the thermal performance of
+    the houses with their individual characteristics. The selected variables for
+    analysis monitoring are based on the thermal comfort adaptive model
+    (SPAGNOLO and DE DEAR, 2003 apud NEGREIROS, 2010). The characteristics of
+    the houses were analyzed as meeting the passive thermal conditioning
+    strategies recommended by NBR 15220 (ABNT, 2005), for the bioclimatic zone 7
+    where the municipalities of Caicó and Acari are located. The house’s
+    analysis of the operating temperatures revealed that 90% of the times of day
+    the environments are within the comfort range. The farmhouses, which had a
+    higher degree of compliance with recommended bioclimatic strategies, had the
+    best thermal performance. In environments (usually the kitchen and rooms
+    with low ceiling heights, exposed to west radiation) which still had
+    discomfort hours, the thermal comfort can be reached with air movement
+    approximately 1,0 m/s.
+  accessed:
+    - year: 2023
+      month: 6
+      day: 22
+  author:
+    - family: Borges
+      given: Ariane Magda
+  citation-key: borges:2015vernaculares
+  container-title-short: >-
+    Vernacular: nineteenth century Seridó Potiguar’s cattle farms as example of
+    adaptation to the semiarid climate
+  event-place: Natal
+  genre: Dissertação de Mestrado em Arquitetura e Urbanismo
+  issued:
+    - year: 2015
+      month: 4
+      day: 30
+  language: por
+  license: Acesso Aberto
+  number-of-pages: '152'
+  publisher: Universidade Federal do Rio Grande do Norte, Centro de Tecnologia
+  publisher-place: Natal
+  source: repositorio.ufrn.br
+  title: >-
+    Vernaculares: a casa de fazenda seridoense do século <span
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XIX</span> como
+    exemplo de adaptação ao clima semiárido
+  title-short: Vernaculares
+  type: thesis
+  URL: https://repositorio.ufrn.br/handle/123456789/21171
 
 - id: broug:2008islamic
   author:
@@ -655,6 +792,48 @@ references:
   source: K10plus ISBN
   title: 'A arquitectura de José Baganha: tradição e contemporaneidade'
   title-short: A arquitectura de José Baganha
+  type: book
+
+- id: corona:2017dicionario
+  abstract: >-
+    Originalmente publicado em fascículos na revista Acrópole, o DICIONÁRIO DA
+    ARQUITETURA BRASILEIRA de Carlos Lemos e Eduardo Corona foi lançado na forma
+    de livro em 1973, com edição esgotada no mesmo ano. O Dicionário foi de
+    grande importância não só para os profissionais da área e estudantes mas
+    também para a história da editoria brasileira: até hoje é o primeiro
+    dicionário especializado em arquitetura brasileira, fruto de uma extensa
+    pesquisa por parte de seus realizadores. Um volume imprescindível para todos
+    os que quiserem falar de arquitetura com propriedade! A cada página o
+    dicionário traz diversos termos divertidos e inesperados, e o leitor poderá
+    constatar que Baraúna não é apenas loja de móveis, Bastião não é apelido de
+    Sebastião, Capote nem sempre é roupa de inverno, Escócia pode ser outra
+    coisa além de país do Reino Unido ou Oitão não é um oito grande!
+  author:
+    - family: Corona
+      given: Eduardo
+    - family: Lemos
+      given: Carlos
+  citation-key: corona:2017dicionario
+  collection-number: '3'
+  collection-title: RG Facsimile
+  contributor:
+    - family: Santos
+      given: Silvana Romano
+  edition: '2'
+  editor:
+    - family: Guerra
+      given: Abilio
+  event-place: São Paulo
+  ISBN: 978-85-88585-69-0
+  issued:
+    - year: 2017
+      month: 1
+      day: 1
+  language: por
+  publisher: Romano Guerra
+  publisher-place: São Paulo
+  source: Amazon
+  title: Dicionário da arquitetura brasileira
   type: book
 
 - id: costa:2015arquitetura
@@ -1017,6 +1196,51 @@ references:
   type: book
   URL: https://purl.pt/14547
 
+- id: freitas:2005lar
+  abstract: >-
+    Com o intuito de contribuir para preencher a lacuna existente na
+    historiografia sobre os engenheiros e arquitetos atuantes no campo da
+    construção civil, procura-se resgatar a discussão sobre habitação popular no
+    âmbito dos periódicos de engenharia e de publicações editadas em São Paulo
+    entre 1916 e 1931. Assim, toma-se como escopo o tratamento dado à questão da
+    habitação popular entre o Concurso para projetos de Habitações Proletárias
+    Econômicas, de 1916, e o I Congresso de Habitação, realizado no início de
+    1931. Estes dois acontecimentos são momentos nos quais engenheiros e
+    arquitetos travaram discussões importantes em torno de uma proposta de
+    habitação econômica. Entre as questões discutidas estão as inovações
+    espaciais, que são influenciadas por questões de conforto, higiene e
+    economia, concomitantemente à discussão tecnológica, que perpassa as
+    questões da racionalização dos materiais de construção, das técnicas
+    construtivas e de urbanismo. Discute-se também a atuação do
+    engenheiro-arquiteto Bruno Simões Magro, útil para se entender a
+    complexidade do tema da habitação econômica e como esse tipo de
+    profissional, dito engenheiro arquiteto, atuou na questão da habitação
+    popular
+  accessed:
+    - year: 2020
+      month: 8
+      day: 3
+  author:
+    - family: Freitas
+      given: Maria Luiza
+      dropping-particle: de
+  citation-key: freitas:2005lar
+  DOI: 10.11606/D.18.2005.tde-14032006-123351
+  genre: text
+  issued:
+    - year: 2005
+      month: 11
+      day: 22
+  language: por
+  publisher: Universidade de São Paulo
+  source: teses.usp.br
+  title: >-
+    O lar conveniente: os engenheiros e arquitetos e as inovações espaciais e
+    tecnológicas nas habitações populares de São Paulo (1916-1931)
+  title-short: O lar conveniente
+  type: thesis
+  URL: http://www.teses.usp.br/teses/disponiveis/18/18142/tde-14032006-123351/
+
 - id: freyre:1951sobrados
   author:
     - family: Freyre
@@ -1148,7 +1372,7 @@ references:
   event-place: Paris
   issued:
     - year: 1697
-  language: fr
+  language: fre
   number-of-pages: '290'
   publisher: Christophe Ballard
   publisher-place: Paris
@@ -1163,6 +1387,55 @@ references:
   title-short: L'art de dessiner proprement les plans
   type: book
   URL: http://archive.org/details/lartdedessinerpr00giff
+
+- id: gomez:2016guadiana
+  abstract: >-
+    El trabajo es un estudio comparativo de las tipologías de  casa popular en
+    el sur oeste de la Península Ibérica, tomando como referencias principales
+    el caso de Mértola (Portugal) y diversos  municipios  de  las  provincias 
+    de  Huelva  y  Sevilla  (España).  Desde  un  punto  de partida común: la
+    casa almohade, se detecta una divergencia clara durante la Edad Moderna. Si 
+    esta  casa  almohade  se  caracterizaba  por  un  patio  central  como 
+    núcleo  vertebrador,  las tipologías posteriores son claramente diversas a 
+    ambos lados del Guadiana. En el Alentejo  y Algarve  portugueses  hay  una 
+    respuesta  compacta  y  continua,  mientras  que  en  Andalucía Occidental
+    se caracteriza por la concavidad y la discontinuidad. En ambos casos, la
+    ocupación de la parcela es extensiva. Se profundiza en el factor cultural
+    como principal condicionante de las tipologías de arquitectura popular
+    residencial.
+  accessed:
+    - year: 2020
+      month: 8
+      day: 8
+  author:
+    - family: Gómez Martínez
+      given: Vidal
+    - family: Pérez Cano
+      given: María Teresa
+    - family: Del Espino Hidalgo
+      given: Blanca
+  citation-key: gomez:2016guadiana
+  container-title: 'Arquitectura popular: Tradição e vanguarda'
+  editor:
+    - family: André
+      given: Paula
+  event-place: '[Lisboa]'
+  ISBN: 978-989-732-985-2
+  issued:
+    - year: 2016
+      month: 12
+  language: spa
+  license: Attribution-NonCommercial-NoDerivatives 4.0 Internacional
+  page: 62-80
+  publisher: <span smallcaps="smallcaps">DINÂMIA’CET – IUL</span>
+  publisher-place: '[Lisboa]'
+  source: idus.us.es
+  title: >-
+    Guadiana, barrera tipológica: un estudio comparativo de las tipologías de
+    casa popular en el sur oeste de la Península Ibérica
+  title-short: Guadiana, barrera tipológica
+  type: chapter
+  URL: https://idus.us.es/handle/11441/98687
 
 - id: gonzaga:2006madeira
   author:
@@ -1181,6 +1454,25 @@ references:
   title: 'Madeira: uso e conservação'
   title-short: Madeira
   type: book
+
+- id: harbeson:1927study
+  author:
+    - family: Harbeson
+      given: John F.
+  citation-key: harbeson:1927study
+  event-place: New York
+  issued:
+    - year: 1926
+  language: eng
+  publisher: Pencil Points
+  publisher-place: New York
+  source: Open WorldCat
+  title: >-
+    The study of architectural design: with special reference to the program of
+    the Beaux-Arts Institute of Design
+  title-short: The study of architectural design
+  type: book
+  URL: https://hdl.handle.net/2027/mdp.39015014100054
 
 - id: iphan:2012planaltina
   author:
@@ -1245,6 +1537,20 @@ references:
   URL: >-
     https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=2884339
   volume: '49'
+
+- id: kamayura:2019manual
+  author:
+    - literal: Kamayurá (povo)
+  citation-key: kamayura:2019manual
+  event-place: São Paulo
+  issued:
+    - year: 2019
+  language: por
+  publisher: Escola da Cidade
+  publisher-place: São Paulo
+  title: Manual da arquitetura kamayurá
+  type: book
+  URL: https://issuu.com/annajubs/docs/190812_casakamayurasingles
 
 - id: kluppel:2017casa
   abstract: >-
@@ -1379,6 +1685,102 @@ references:
   type: article-journal
   URL: https://linkinghub.elsevier.com/retrieve/pii/S0360132397000243
   volume: '33'
+
+- id: langhein:2002path
+  author:
+    - family: Langhein
+      given: Joachim
+  citation-key: langhein:2002path
+  event-place: Heidelberg
+  issued:
+    - year: 2002
+  language: eng
+  publisher-place: Heidelberg
+  title: On the path to a general proportion theory
+  type: manuscript
+
+- id: langhein:2010path
+  abstract: >-
+    Despite many publications, a synoptical and instrumental knowledge (or
+    theory) of architectural aesthetics, proportions and other objective and
+    systemic parameters of aesthetics is still in its infancy. The knowledge on
+    the Golden Section is best developed, while other aspects and their
+    integration into an organized theory and system of categories are still
+    widely missing. This paper introduces results of independent research over
+    30 years. The study focusses on proportions of domestic architecture and a
+    multidisciplinary approach to proportion & perception.
+  accessed:
+    - year: 2021
+      month: 7
+      day: 20
+  author:
+    - family: Langhein
+      given: Joachim
+  citation-key: langhein:2010path
+  event-place: Heidelberg
+  issued:
+    - year: 2010
+      month: 8
+      day: 31
+  language: eng
+  number-of-pages: '13'
+  publisher-place: Heidelberg
+  source: Zotero
+  title: On the path to a proportion science in architecture and the golden section
+  type: manuscript
+  URL: http://proportions.de/ISISJournal2010.pdf
+
+- id: langhein:2012proportion
+  author:
+    - family: Langhein
+      given: Joachim
+  citation-key: langhein:2012proportion
+  issued:
+    - year: 2012
+  language: eng
+  number-of-pages: '41'
+  source: Zotero
+  title: Proportion analyses of traditional vernacular architecture
+  type: manuscript
+
+- id: langhein:2013proportion
+  accessed:
+    - year: 2013
+      month: 9
+      day: 16
+  author:
+    - family: Langhein
+      given: Joachim
+  citation-key: langhein:2013proportion
+  container-title: INTBAU Ideas and Opinions
+  issue: '10'
+  issued:
+    - year: 2013
+  language: eng
+  title: Proportion and traditional architecture
+  type: article-journal
+  URL: >-
+    https://www.intbau.org/wp-content/uploads/2014/10/ProportionandTraditionalArchitecture.pdf
+  volume: '1'
+
+- id: langhein:sebastiano
+  accessed:
+    - year: 2021
+      month: 7
+      day: 20
+  author:
+    - family: Langhein
+      given: Joachim
+  citation-key: langhein:sebastiano
+  language: eng
+  number-of-pages: '13'
+  source: Zotero
+  title: >-
+    Sebastiano Serlio (1475-1554) & Pierre Lemuet (1591-1669) as pioneers of the
+    architecture of modern age
+  title-short: Sebastiano Serlio & Pierre Lemuet
+  type: manuscript
+  URL: http://proportions.de/SerlioMuet.pdf
 
 - id: leal:2009arquitectos
   abstract: >-
@@ -1689,6 +2091,53 @@ references:
   title-short: Sustainable building and traditional morphology
   type: report
 
+- id: memmott:2023design
+  abstract: >-
+    "Design and the Vernacular explores the intersection between vernacular
+    architecture, local cultures, and modernity and globalization. Focussing on
+    the vast and diverse global region of Australasia and Oceania, it examines
+    the relevance and role of vernacular architecture to contemporary urban
+    planning and architectural design, placing this against a contextual
+    background of rapid political, economic, technological, social and
+    environmental changes including globalization, exchanges of people, finance,
+    material culture, and digital technologies. Sixteen chapters by architects
+    designers and theorists, including Indigenous writers, explore key questions
+    about the agency of vernacular architecture in shaping contemporary building
+    and design practice. These questions include: How have Indigenous and First
+    Nations building traditions shaped modern building practices? What can the
+    study of vernacular architecture contribute to debates about sustainable
+    development? And how has vernacular architecture been used to argue for
+    postcolonial modernisation and nation-building and what has been the effect
+    on heritage and conservation? Such questions provide valuable case studies
+    and lessons for architecture in other global regions -- and challenge
+    assumptions about vernacular architecture being anachronistic and static,
+    instead demonstrating how it can shape contemporary architecture, nation
+    building and cultural identities"--
+  call-number: NA1511
+  citation-key: memmott:2023design
+  editor:
+    - family: Memmott
+      given: Paul
+    - family: Ting
+      given: John H. S.
+    - family: O'Rourke
+      given: Tim
+    - family: Vellinga
+      given: Marcel
+  event-place: London ; New York
+  ISBN: 978-1-350-29434-9 978-1-350-29432-5 978-1-350-29433-2
+  issued:
+    - year: 2023
+  language: eng
+  publisher: Bloomsbury Visual Arts
+  publisher-place: London ; New York
+  source: Library of Congress ISBN
+  title: >-
+    Design and the vernacular: interpretations for contemporary architectural
+    practice and theory
+  title-short: Design and the vernacular
+  type: book
+
 - id: menezes:2019materiais
   citation-key: menezes:2019materiais
   editor:
@@ -1806,6 +2255,27 @@ references:
   title-short: Cidades do nordeste
   type: book
 
+- id: mestre:2016mito
+  accessed:
+    - year: 2021
+      month: 7
+      day: 18
+  author:
+    - family: Mestre
+      given: Victor
+  citation-key: mestre:2016mito
+  collection-title: Patrimónios de Influência Portuguesa
+  container-title: Cabo dos Trabalhos
+  ISSN: 2182-9187
+  issue: '12'
+  issued:
+    - year: 2016
+  language: por
+  source: Zotero
+  title: O mito do modelo perfeito da casa popular de origem portuguesa
+  type: article-journal
+  URL: https://cabodostrabalhos.ces.uc.pt/n12/ensaios.php
+
 - id: minifie:1849text
   abstract: vi, [7]-127 p. 26 cm
   accessed:
@@ -1873,6 +2343,27 @@ references:
     The Islamic design module in Latin America :  proportionality and the
     techniques of Neo-Mudéjar architecture
   title-short: The Islamic design module in Latin America
+  type: book
+
+- id: moor:2017reinventing
+  author:
+    - family: Moor
+      given: Terry M.
+  call-number: HD7293 .M647 2017
+  citation-key: moor:2017reinventing
+  event-place: New York ; London
+  ISBN: 978-1-138-68252-8
+  issued:
+    - year: 2017
+  language: eng
+  number-of-pages: '249'
+  publisher: Routledge
+  publisher-place: New York ; London
+  source: Library of Congress ISBN
+  title: >-
+    Reinventing an urban vernacular: developing sustainable housing prototypes
+    for cities based on traditional strategies
+  title-short: Reinventing an urban vernacular
   type: book
 
 - id: morais:2022geometria
@@ -2194,6 +2685,61 @@ references:
     informações
   type: paper-conference
   URL: http://www.repositorio.ufc.br/handle/riufc/22709
+
+- id: oliver:2006built
+  author:
+    - family: Oliver
+      given: Paul
+  citation-key: oliver:2006built
+  edition: '1'
+  event-place: Amsterdam
+  ISBN: 978-0-7506-6657-2
+  issued:
+    - year: 2006
+  language: eng
+  number-of-pages: '445'
+  publisher: Elsevier, Architectural Press
+  publisher-place: Amsterdam
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: 'Built to meet needs: cultural issues in vernacular architecture'
+  title-short: Built to meet needs
+  type: book
+
+- id: ozkan:2006traditionalism
+  abstract: >-
+    The issues surrounding the function and meaning of vernacular architecture
+    in the twenty-first century are complex and extensive. Taking a
+    distinctively rigorous theoretical approach, this book considers these
+    issues from a number of perspectives, broadening current debate to a wider
+    multidisciplinary audience. These collected essays from the leading experts
+    in the field focus on theory, education and practice in this essential
+    sector of architecture, and help to formulate solutions to the
+    environmental, disaster management and housing challenges facing the global
+    community today.
+  author:
+    - family: Özkan
+      given: Suha
+  call-number: NA208 .V48 2006
+  citation-key: ozkan:2006traditionalism
+  container-title: >-
+    Vernacular architecture in the twenty-first century: theory, education and
+    practice
+  editor:
+    - family: Asquith
+      given: Lindsay
+    - family: Vellinga
+      given: Marcel
+  event-place: London ; New York
+  ISBN: 978-0-415-35781-4 978-0-415-35795-1 978-0-203-00386-2
+  issued:
+    - year: 2006
+  language: eng
+  page: 97-109
+  publisher: Taylor & Francis
+  publisher-place: London ; New York
+  source: Library of Congress ISBN
+  title: Traditionalism and vernacular architecture in the twenty-first century
+  type: chapter
 
 - id: padovan:1999proportion
   author:
@@ -2597,6 +3143,36 @@ references:
   type: book
   URL: http://purl.pt/24485
 
+- id: plaza:2014dicionario
+  citation-key: plaza:2014dicionario
+  contributor:
+    - family: Morales Gómez
+      given: Adoración
+    - family: Bermejo López
+      given: Maria Luisa
+    - family: Martínez Murillo
+      given: José María
+  editor:
+    - family: Plaza Escudero
+      given: Lorenzo
+      non-dropping-particle: de la
+  event-place: Lisboa
+  ISBN: 978-972-589-237-4
+  issued:
+    - year: 2014
+  language: por
+  publisher: Quimera
+  publisher-place: Lisboa
+  title: >-
+    Dicionário visual de arquitetura: fundamental para estudantes e
+    profissionais
+  translator:
+    - family: Casal i Basegaña
+      given: Digna
+    - family: Lameiro
+      given: Carlos Silva
+  type: book
+
 - id: porto:2009alvenarias
   author:
     - family: Pôrto Ribeiro
@@ -2766,6 +3342,53 @@ references:
   title-short: Architectural composition
   type: book
   URL: http://archive.org/details/architecturalco00robigoog
+
+- id: rodrigues:2016origens
+  author:
+    - family: Rodrigues
+      given: Paulo Simões
+  citation-key: rodrigues:2016origens
+  container-title: Arquitectura Popular. Tradição e Vanguarda
+  issued:
+    - year: 2016
+  language: por
+  page: 19–48
+  source: Google Scholar
+  title: >-
+    Das origens da arquitectura popular em Portugal no século <span
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XIX</span>:
+    arqueologia de uma ideia
+  title-short: >-
+    Das origens da arquitectura popular em Portugal no século <span
+    smallcaps="smallcaps">XIX</span>
+  type: paper-conference
+
+- id: rowe:1947mathematics
+  abstract: >-
+    Colin Rowe’s essay on The Mathematics of the Ideal Villa, Palladio and Le
+    Corbusier compared
+  accessed:
+    - year: 2025
+      month: 1
+      day: 8
+  author:
+    - family: Rowe
+      given: Colin
+  citation-key: rowe:1947mathematics
+  container-title: The Architectural Review
+  container-title-short: AR
+  issue: '603'
+  issued:
+    - year: 1947
+      month: 3
+  language: eng
+  page: 101-104
+  title: 'The mathematics of the ideal villa: Palladio and Le Corbusier compared'
+  title-short: The mathematics of the ideal villa
+  type: article-journal
+  URL: >-
+    https://archive.org/details/sim_architectural-review_1947-03_101_603/page/n31
+  volume: '101'
 
 - id: saia:1972morada
   archive: UnB BCE
@@ -2992,6 +3615,29 @@ references:
   title: Origens da nacionalidade portugueza
   type: book
 
+- id: silva:2005dicionario
+  author:
+    - family: Silva
+      given: Jorge Henrique Pais
+      dropping-particle: da
+    - family: Calado
+      given: Margarida
+  citation-key: silva:2005dicionario
+  collection-number: '7'
+  collection-title: Biblioteca da arte
+  edition: 1. ed
+  event-place: Lisboa
+  ISBN: 978-972-23-3336-8
+  issued:
+    - year: 2005
+  language: por
+  number-of-pages: '395'
+  publisher: Presença
+  publisher-place: Lisboa
+  source: K10plus ISBN
+  title: Dicionário de termos de arte e arquitectura
+  type: book
+
 - id: silva:2020tecnologias26
   abstract: >-
     Here we present a synthesis of a mapping of technologies derived from the
@@ -3074,6 +3720,57 @@ references:
   type: thesis
   URL: https://repositorio.unb.br/handle/10482/43399
 
+- id: simoes:2019vernacular
+  abstract: >-
+    This chapter presents the various typologies that can be found in vernacular
+    architecture across Portugal. It will be shown how these variations result
+    from an adaptation to the local contexts, including climatic
+    characteristics. Considerations will also be taken on other aspects of
+    sustainability, including refurbishment, environmental performance, and
+    cultural issues. The chapter consists of the National Survey on Regional
+    Architecture, Regional Variations: Context Considerations, Minho,
+    Trás-os-Montes and Alto Douro, Cova da Beira, Estremadura and Ribatejo,
+    Inland Alentejo, Coastal Alentejo, Lower Alentejo and Algarve, Vernacular
+    revival, Conclusions, and References.
+  accessed:
+    - year: 2020
+      month: 7
+      day: 11
+  author:
+    - family: Simões
+      given: Rui Nogueira
+    - family: Cabral
+      given: Inês
+    - family: Barros
+      given: Fernando Cerqueira
+    - family: Carlos
+      given: Gilberto
+    - family: Correia
+      given: Mariana
+    - family: Marques
+      given: Bruno
+    - family: Guedes
+      given: Manuel Correia
+  citation-key: simoes:2019vernacular
+  container-title: Sustainable Vernacular Architecture
+  DOI: 10.1007/978-3-030-06185-2_4
+  editor:
+    - family: Sayigh
+      given: Ali
+  event-place: Cham
+  ISBN: 978-3-030-06184-5 978-3-030-06185-2
+  issued:
+    - year: 2019
+  language: eng
+  page: 55-91
+  publisher: Springer
+  publisher-place: Cham
+  source: DOI.org (Crossref)
+  title: 'Vernacular architecture in Portugal: regional variations'
+  title-short: Vernacular architecture in Portugal
+  type: chapter
+  URL: http://link.springer.com/10.1007/978-3-030-06185-2_4
+
 - id: sobral:2004norte
   abstract: >-
     A divisão entre o Norte e o Sul constitui um tópico recorrente nas
@@ -3106,6 +3803,76 @@ references:
   type: article-journal
   URL: >-
     http://www.scielo.mec.pt/scielo.php?script=sci_abstract&pid=S0003-25732004000300001&lng=pt&nrm=iso&tlng=pt
+
+- id: souza:2018domestica
+  abstract: >-
+    Este artigo propõe uma reflexão sobre espaços domésticos vernaculares e
+    populares, fazendo uma discussão sobre estas produções a partir dos
+    processos de mudança social advindos da modernidade. São discutidos aspectos
+    da arquitetura vernacular através de uma caracterização da arquitetura
+    doméstica brasileira no período colonial. A arquitetura popular é entendida
+    a partir de uma hibridização entre o tradicional e o moderno, em uma forma
+    de produção autoconstruída. É proposta uma análise morfológica de espaços
+    domésticos compreendidos como vernaculares e populares, identificando
+    aspectos de tradição e da modernidade que se encontram nestes.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 28
+  author:
+    - family: Souza
+      given: Maressa Fonseca
+      dropping-particle: e
+    - family: Pinto
+      given: Neide Maria de Almeida
+    - family: Stephan
+      given: Ítalo Itamar Caixeiro
+    - family: Carvalho
+      given: Alice Werneck Barbosa
+      dropping-particle: de
+  citation-key: souza:2018domestica
+  container-title: 'Arquitetura e Urbanismo no Brasil atual: crises, impasses e desafios'
+  editor:
+    - family: Gordilho Souza
+      given: Ana Maria
+    - family: Andrade Junior
+      given: Nivaldo Vieira
+      dropping-particle: de
+    - family: Baeta
+      given: Rodrigo Espinha
+  event-place: Salvador
+  event-title: >-
+    V Encontro da Associação Nacional de Pesquisa e Pós-Graduação em Arquitetura
+    e Urbanismo
+  ISSN: 2358-6214
+  issued:
+    - year: 2018
+  language: por
+  page: 5378-5394
+  publisher: FAUFBA
+  publisher-place: Salvador
+  title: 'Arquitetura doméstica no Brasil: do vernacular ao popular'
+  title-short: Arquitetura doméstica no Brasil
+  type: paper-conference
+  URL: https://repositorio.ufba.br/handle/ri/27744
+  volume: '3'
+
+- id: speltz:1898architectura
+  author:
+    - family: Speltz
+      given: Alexandre
+  citation-key: speltz:1898architectura
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1898
+  language: por
+  publisher: Edição do autor
+  publisher-place: Rio de Janeiro
+  title: >-
+    A architectura classica no Brazil : Novo Vinhola brazileiro ao alcance de
+    todos
+  title-short: A architectura classica no Brazil
+  type: book
 
 - id: tavares:2016construcaoa
   accessed:
@@ -3349,6 +4116,31 @@ references:
   type: thesis
   URL: https://repositorio.ufmg.br/handle/1843/MMMD-8PDK6D
 
+- id: vellinga:2006inventiveness13
+  accessed:
+    - year: 2020
+      month: 5
+      day: 3
+  archive: JSTOR
+  author:
+    - family: Vellinga
+      given: Marcel
+  citation-key: vellinga:2006inventiveness13
+  container-title: Perspectives in Vernacular Architecture
+  ISSN: 0887-9885
+  issue: '2'
+  issued:
+    - year: 2006
+  language: eng
+  page: 115-128
+  publisher: Vernacular Architecture Forum
+  source: JSTOR
+  title: 'The inventiveness of tradition: vernacular architecture and the future'
+  title-short: The inventiveness of tradition
+  type: article-journal
+  URL: https://www.jstor.org/stable/20355388
+  volume: '13'
+
 - id: viana:1999algumas
   abstract: >-
     A ideia de «caos» aplicada aos antigos sistemas de pesos e medidas é, de
@@ -3382,6 +4174,34 @@ references:
   title-short: Algumas medidas lineares medievais portuguesas
   type: article-journal
   URL: https://repositorio.uac.pt/handle/10400.3/294
+
+- id: vignola:1853vinhola
+  author:
+    - family: Vignola
+      given: Giacomo Barozzio
+    - family: Moisy
+      given: Alexandre
+    - family: Thiollet
+      given: François
+  call-number: '72'
+  citation-key: vignola:1853vinhola
+  event-place: Paris
+  issued:
+    - year: 1853
+  language: por
+  publisher: J. Langlumé
+  publisher-place: Paris
+  source: catalogo.bn.pt Library Catalog
+  title: >-
+    O Vinhola dos proprietarios, ou as cinco ordens de architectura segundo J.
+    Barrozio de Vinhola
+  title-short: O Vinhola dos proprietarios
+  translator:
+    - family: Fonseca
+      given: José
+      dropping-particle: da
+  type: book
+  URL: http://biblioteca.ciarte.pt/tratados/obras/v/Vignola1853.html
 
 - id: vignola:1876regras
   abstract: 'vii, 154 p., 82, 6 leaves of plates : 21 cm'
@@ -3417,6 +4237,24 @@ references:
   type: book
   URL: http://archive.org/details/regrasdascincoor00vign
 
+- id: vitruvio:2007tratado
+  author:
+    - literal: Vitrúvio
+  citation-key: vitruvio:2007tratado
+  event-place: São Paulo
+  ISBN: 978-85-7707-003-9
+  issued:
+    - year: 2007
+  language: por
+  publisher: Martins Fontes
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Tratado de arquitetura
+  translator:
+    - family: Maciel
+      given: M. Justino
+  type: book
+
 - id: warner:1954applied
   abstract: 247 p. 24 cm
   accessed:
@@ -3438,6 +4276,42 @@ references:
   title: Applied descriptive geometry with drafting-room problems
   type: book
   URL: http://archive.org/details/applieddescripti0004warn
+
+- id: weber:2014lessons
+  abstract: >-
+    "The architectural community has had a strong and continuing interest in
+    traditional and vernacular architecture. This has been rekindled by the need
+    to develop an architecture that works with climate, rather than against it,
+    to create more sustainable buildings. Most earlier research and existing
+    publications on traditional or vernacular architecture have followed an
+    anthropological or archaeological approach, whereas books on climatic design
+    and sustainable architecture tend to refer to contemporary principles and
+    built precedents without direct reference to past experience. Lessons from
+    Traditional Architecture takes lessons directly from traditional and
+    vernacular architecture and offers them to the reader as guidance and
+    inspiration for new buildings. The appropriate technical and social
+    solutions provided by vernacular and traditional architecture are analysed
+    in detail. International case studies focus on environmental design aspects
+    of traditional architecture in a broad range of climatic conditions and
+    building types"--
+  call-number: NA2542.36 .L47 2014
+  citation-key: weber:2014lessons
+  editor:
+    - family: Weber
+      given: Willi
+    - family: Yannas
+      given: Simos
+  event-place: London ; New York
+  ISBN: 978-1-84407-600-0
+  issued:
+    - year: 2014
+  language: eng
+  number-of-pages: '215'
+  publisher: Routledge
+  publisher-place: London ; New York
+  source: Library of Congress ISBN
+  title: Lessons from vernacular architecture
+  type: book
 
 - id: weimer:2005arquitetura
   author:
@@ -3489,6 +4363,27 @@ references:
   type: article-journal
   URL: https://seer.ufrgs.br/index.php/EmQuestao/article/view/106671
 
+- id: winckelmann:1984historia
+  author:
+    - family: Winckelmann
+      given: Johann Joachim
+  citation-key: winckelmann:1984historia
+  event-place: Barcelona
+  ISBN: 978-84-7082-046-5 84-7082-046-X
+  issued:
+    - year: 1984
+  language: spa
+  publisher: Iberia
+  publisher-place: Barcelona
+  source: Open WorldCat
+  title: Historia del arte en la antigüedad
+  translator:
+    - family: Dauer
+      given: Herminia
+    - family: Aguilera
+      given: Emiliano M
+  type: book
+
 - id: younes:2024architectural
   abstract: >-
     An Architectural Pedagogy for the Twenty-First Century is an expanded form
@@ -3526,6 +4421,33 @@ references:
   title: An architectural pedagogy for the twenty-first century
   type: book
   URL: https://ndschoolofarchitecture.aflip.in/44640c2c78.html
+
+- id: zeising:1854neue
+  accessed:
+    - year: 2020
+      month: 6
+      day: 26
+  author:
+    - family: Zeising
+      given: Adolf
+  call-number: '33765'
+  citation-key: zeising:1854neue
+  event-place: Leipzig
+  issued:
+    - year: 1854
+  language: ger
+  number-of-pages: '492'
+  publisher: R. Weigel
+  publisher-place: Leipzig
+  source: Internet Archive
+  title: >-
+    Neue Lehre von den Proportionen des menschlichen Körpers, aus einem bisher
+    unerkannt gebliebenen, die ganze Natur und Nunst durchdringenden
+    morphologischen Grundgesetze entwickelt und mit einer volständigen
+    historischen uebersicht der bisherigen Systeme begleitet
+  title-short: Neue Lehre von den Proportionen des menschlichen Körpers
+  type: book
+  URL: http://archive.org/details/neuelehrevondenp00zeis
 
 - id: zwerger:2012wood
   author:
