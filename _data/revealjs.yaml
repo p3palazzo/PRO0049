@@ -10,9 +10,9 @@ metadata:
   bibliography: "_data/biblio.yaml"
   crossrefYaml: "_data/revealjs-crossref.yaml"
   csl         : "_data/modern-language-association.csl"
-  css         : "../css/slides.css"
+  css         : "../css/revealjs.css"
   lang        : "pt-PT"
-  toc         : true
+  toc         : false
   suppress-bibliography: true
 slide-level   : 2
 standalone    : true

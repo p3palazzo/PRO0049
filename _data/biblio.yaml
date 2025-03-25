@@ -1474,6 +1474,35 @@ references:
   type: book
   URL: https://hdl.handle.net/2027/mdp.39015014100054
 
+- id: illampas:2009adobe
+  accessed:
+    - year: 2025
+      month: 3
+      day: 25
+  author:
+    - family: Illampas
+      given: R.
+    - family: Ioannou
+      given: I.
+    - family: Charmpis
+      given: D. C.
+  citation-key: illampas:2009adobe
+  DOI: 10.2495/SDP090241
+  event-place: Cyprus
+  event-title: SUSTAINABLE DEVELOPMENT 2009
+  issued:
+    - year: 2009
+      month: 4
+      day: 21
+  language: eng
+  page: 245-256
+  publisher-place: Cyprus
+  source: DOI.org (Crossref)
+  title: 'Adobe: an environmentally friendly construction material'
+  title-short: Adobe
+  type: paper-conference
+  URL: http://library.witpress.com/viewpaper.asp?pcode=SDP09-024-1
+
 - id: iphan:2012planaltina
   author:
     - literal: Instituto do Patrimônio Histórico e Artistico Nacional

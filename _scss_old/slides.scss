@@ -39,10 +39,19 @@ html {
     max-width: 1600px;
     max-height: 800px;
   }
+  & > figure.subfigures {
+    width: 100% !important;
+  }
 }
 
 figcaption {
   font-family: $font-family-legend;
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+cite {
+  font-style: italic;
 }
 
 .d-none {
@@ -52,4 +61,8 @@ figcaption {
 span.smallcaps {
   font-variant: all-small-caps;
   font-variant-numeric: oldstyle-nums;
+}
+
+h2 {
+  font-style: italic;
 }
