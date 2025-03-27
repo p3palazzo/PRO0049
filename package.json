@@ -24,7 +24,7 @@
 	"scripts": {
 		"css": "npm-run-all css-compile css-prefix",
 		"css-compile": "sass --style compressed --source-map --embed-sources --no-error-css --load-path=node_modules _scss/:css/",
-		"css-prefix": "postcss --replace css/slides.css --use autoprefixer --map",
+		"css-prefix": "postcss --replace css/revealjs.css --replace css/main.css --use autoprefixer --map",
 		"serve": "npx http-server -c-1",
 		"start": "npm-run-all --parallel watch serve",
 		"watch": "nodemon -e md,html,scss -x \"npm run css && make\""

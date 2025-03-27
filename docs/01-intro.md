@@ -676,7 +676,7 @@ alta preferência temporal também acaba sendo efêmera.
 ## Consumo de energia ##
 
 ::: align-right
-![Arquitetura do pico do petróleo. Léon Krier, 2008](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg){#fig:krier-oil .line}
+![Arquitetura do pico do petróleo. Léon Krier, 2008](/media/lk-oil.png){#fig:krier-oil .line height="810px"}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -867,7 +867,7 @@ importa tanto, a questão é a tendência.
 * * * *
 
 ::: align-right
-![Léon Krier, custo de construção e custo de manutenção comparados](https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980){#fig:krier-maintenance .line}
+![Léon Krier, custo de construção e custo de manutenção comparados](/media/lk-cost.png){#fig:krier-maintenance .line}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
