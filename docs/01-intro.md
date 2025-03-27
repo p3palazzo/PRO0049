@@ -394,10 +394,10 @@ Essa diferença é formada por três categorias de aspectos:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: r-fit-text
 &nbsp;
 
-|                | Aspectos produtivos  | Aspectos objetivos | Aspectos sensíveis  |
-|----------------|----------------------|--------------------|---------------------|
-| **Ações**      | Lugar do saber       | Conceito de espaço | Geometria e fractal |
-| **Resultados** | Preferência temporal | Tipo e variedade   | Identidade          |
+|             | Aspectos produtivos  | Aspectos objetivos | Aspectos sensíveis  |
+|-------------|----------------------|--------------------|---------------------|
+| **Causas**  | Lugar do saber       | Conceito de espaço | Geometria e fractal |
+| **Efeitos** | Preferência temporal | Tipo e variedade   | Identidade          |
 
 Table: Seis diferenças entre arquitetura tradicional e moderna <br />&nbsp;
 
@@ -807,7 +807,7 @@ investir não só no conforto imediato, mas sobretudo na qualidade de vida
 * * * *
 
 ::: align-right
-![Gaston Bachelard. Acervo do [Arquivo Nacional dos Países Baixos](https://commons.wikimedia.org/wiki/File:Gaston_Bachelard_1965.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gaston_Bachelard_1965.jpg/763px-Gaston_Bachelard_1965.jpg){#fig:bachelard}
+![Yi-Fu Tuan](https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg){#fig:tuan}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -824,12 +824,6 @@ do espaço*, pelo filósofo francês Gaston Bachelard (@fig:bachelard)
 [@bachelard:2008poetica], e *Topofilia*, pelo geógrafo americano Yi-Fu
 Tuan ([@fig:tuan]) [@tuan:1980topofilia].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-::: align-right
-![Yi-Fu Tuan](https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg){#fig:tuan}
-:::
 
 ## Responsabilidade ambiental ##
 

@@ -19,10 +19,12 @@ standalone    : true
 toc-depth     : 1
 variables:
   controls    : true
+  embed-resources: true
   hash        : true
   progress    : true
   revealjs-url: "../node_modules/reveal.js"
   width       : 1920
   height      : 1080
   hashOneBasedIndex: true
-  backgroundTransition: "slide"
+  transition  : "fade"
+  viewDistance: 99
