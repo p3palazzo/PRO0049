@@ -1413,7 +1413,7 @@ Segundo @salingaros:2013geometrical, trata-se de
 ![Museu da Vinha, Madalena, ilha do Pico, Açores.
   <br />
   Foto: Pedro P. Palazzo, 2022
-](/media/pt-acores-madalena-mus_vinha-220713-pp-01528.jpg){#fig:vinha-pedras}
+](/media/pt-acores-madalena-mus_vinha-220713-pp-01528.jpg){#fig:vinha-convento}
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
