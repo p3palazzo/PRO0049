@@ -758,31 +758,6 @@ materiais industrializados, como o aço.
 ## Durabilidade da arquitetura ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Onde for custoso gerar energia a partir do ambiente, o trabalho vai ser
-proporcionalmente mais barato. Isso significa que compensa usar a força
-bruta, humana ou animal, em várias tarefas que, nas sociedades
-industriais, tendem a ser mecanizadas. Mas isso implica, também, que o
-trabalho artesanal especializado é mais acessível e difundido do que
-numa economia baseada na indústria de massa.
-
-Ao contrário das máquinas, que podem ser produzidas em escala para
-atender a qualquer demanda, o trabalho humano é limitado pela população
-local e, mais ainda, pela capacitação técnica dos profissionais
-especializados. Ou seja, a produção industrial pode ser ampliada tanto
-quanto os recursos econômicos o permitirem; já a produção artesanal tem
-uma capacidade mais ou menos fixa para cada comunidade.
-
-Essa capacidade produtiva fixa faz com que a variável dependente na
-construção tradicional seja o tempo. O tempo que se leva para construir
-um edifício tradicional tende a ser proporcional ao seu tamanho e ao
-refinamento da construção. Portanto, o volume e a complexidade das
-construções que uma sociedade vai realizar depende em grande parte do
-tempo de trabalho que essa sociedade quer investir nas suas construções.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Transmissão entre gerações ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Sociedades totalmente agrárias e sedentárias tendem a investir ainda
 mais tempo e trabalho nas suas construções, ou seja, a terem uma
 preferência temporal baixa --- elas constroem para o longo prazo. Apesar
@@ -802,6 +777,13 @@ religioso, mas até as moradias da população de todas as classes sociais.
 Construir uma casa que vai ficar de pé durante séculos é, portanto,
 investir não só no conforto imediato, mas sobretudo na qualidade de vida
 *futura* dos filhos e netos.
+
+Como consequência, a pegada de carbono dos edifícios,
+que já era muito baixa por causa dos materiais naturais
+que a arquitetura tradicional usa,
+fica ainda mais baixa porque essas construções duram séculos,
+em vez de serem demolidas depois de algumas décadas
+como é o caso da arquitetura moderna.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
