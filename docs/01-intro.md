@@ -758,35 +758,54 @@ materiais industrializados, como o aço.
 ## Durabilidade da arquitetura ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Sociedades totalmente agrárias e sedentárias tendem a investir ainda
-mais tempo e trabalho nas suas construções, ou seja, a terem uma
-preferência temporal baixa --- elas constroem para o longo prazo. Apesar
-de terem existido comunidades de caçadores-coletores que construíram
-habitações permanentes e até mesmo arquitetura monumental
-[@dietrich:2019cereal14], esse tipo de produção é mais característico de
-comunidades que se organizam em torno de um planejamento para conservar
-ou mesmo multiplicar o valor dos ativos no longo prazo
-[@galor:2016agricultural106].
-
 Sempre que uma sociedade produz o seu ambiente construído com uma
-preferência temporal baixa, existe alguma forma de propriedade privada e
-de transmissão da casa familiar por herança. A preferência pelo longo
+preferência temporal baixa, o resultado são edificações
+que duram séculos ou milênios.
+A preferência pelo longo
 prazo implica que se vai dedicar um esforço considerável para construir
 não só os grandes monumentos representativos do poder político e
 religioso, mas até as moradias da população de todas as classes sociais.
 Construir uma casa que vai ficar de pé durante séculos é, portanto,
 investir não só no conforto imediato, mas sobretudo na qualidade de vida
 *futura* dos filhos e netos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![Pedro José Pézerat, engenheiro, antiga Academia Militar, depois
+  Escola Politécnica do Rio de Janeiro, c. 1825.
+  <br />
+  Foto: Marc Ferrez, c. 1890--1900, acervo
+  [Instituto Moreira Salles 0074050cx008e009-01][]
+](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Largo_de_São_Francisco_de_Paula,_Escola_Politécnica_e,_ao_fundo,_o_prédio_do_Real_Gabinete_Português_de_Leitura_(0074050cx008e009-01).jpg/2550px-Largo_de_São_Francisco_de_Paula,_Escola_Politécnica_e,_ao_fundo,_o_prédio_do_Real_Gabinete_Português_de_Leitura_(0074050cx008e009-01).jpg){#fig:pezerat}
+
+[Instituto Moreira Salles 0074050cx008e009-01]: https://commons.wikimedia.org/wiki/File:Largo_de_São_Francisco_de_Paula,_Escola_Politécnica_e,_ao_fundo,_o_prédio_do_Real_Gabinete_Português_de_Leitura_(0074050cx008e009-01).jpg
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![Escola Politécnica do Rio de Janeiro, atual Instituto de Filosofia
+  e Ciências Sociais [(IFCS--UFRJ)]{.smallcaps}.
+  <br />
+  Foto: Augusto Malta, c. 1915--25,
+  acervo [Instituto Moreira Salles 007A5P3F10-086][]
+](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Politécnica_de_São_Francisco_de_Paula_(007A5P3F10-086).jpg/2560px-Politécnica_de_São_Francisco_de_Paula_(007A5P3F10-086).jpg){#fig:poli}
+
+[Instituto Moreira Salles 007A5P3F10-086]: https://commons.wikimedia.org/wiki/File:Politécnica_de_São_Francisco_de_Paula_(007A5P3F10-086).jpg
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Como consequência, a pegada de carbono dos edifícios,
 que já era muito baixa por causa dos materiais naturais
 que a arquitetura tradicional usa,
 fica ainda mais baixa porque essas construções duram séculos,
 em vez de serem demolidas depois de algumas décadas
 como é o caso da arquitetura moderna.
+E mesmo quando for preciso demolir um edifício tradicional,
+é comum reutilizar materiais duráveis como a pedra ou o tijolo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+![Campanário da catedral de Trieste, 1302--1320, incorporando fragmentos do friso dos propileus da cidade romana, século [I]{.smallcaps} d.C. Foto: [Matthias Kabel, 2009]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Trieste_Cattedrale_di_San_Giusto_spolia1.jpg/1280px-Trieste_Cattedrale_di_San_Giusto_spolia1.jpg){#fig:trieste .outset}
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 ::: align-right
 ![Yi-Fu Tuan](https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg){#fig:tuan}
@@ -809,8 +828,6 @@ Tuan ([@fig:tuan]) [@tuan:1980topofilia].
 
 ## Responsabilidade ambiental ##
 
-------
-
 ::: align-right
 ![Léon Krier, Edifícios (da Universidade de Yale) --- idade e primeira campanha significativa de reformas, 1990](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png){#fig:krier-1990 .line}
 :::
@@ -824,7 +841,7 @@ de cair ([@fig:krier-1990]), mesmo que a indústria venha desenvolvendo
 materiais com desempenhos cada vez melhores (pelo menos no papel).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A qualidade dos materiais industrializados é uma das chaves para
@@ -840,7 +857,7 @@ importa tanto, a questão é a tendência.
 
 ![Impressão [3D]{.smallcaps} de uma casa "sustentável" na Itália, 2021. Projeto: [WASP]{.smallcaps} engenharia e Mario Cucinella Arquitetos. Filmagem: [Alfredo Milano](https://commons.wikimedia.org/wiki/File:Eco-sustainable_3D_printed_house_-_Tecla_(without_sound).webm)](https://upload.wikimedia.org/wikipedia/commons/5/56/Eco-sustainable_3D_printed_house_-_Tecla_(without_sound).webm){#fig:tecla}
 
-* * * *
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 ::: align-right
 ![Léon Krier, custo de construção e custo de manutenção comparados](/media/lk-cost.png){#fig:krier-maintenance .line}
@@ -859,7 +876,7 @@ os ativos imobiliários no longo prazo não é um fator determinante na
 organização da cadeia produtiva.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 ::: align-right
 ![Emissões de CO~2~ da cadeia produtiva da construção, segundo [Victoria Luise Schulz-Daubas, 2021](https://osf.io/ea5hf)](https://hcommons.org/app/uploads/sites/1002372/2021/07/energy-and-CO2-emission-study.png){#fig:schulz}
@@ -875,7 +892,7 @@ década de 1970, as emissões de CO~2~ da cadeia produtiva da construção
 civil estão crescendo cada vez mais rápido ([@fig:schulz]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Consequências econômicas ##
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 É claro que essa aceleração contínua da produção industrial e do
@@ -903,6 +920,13 @@ gerações futuras, retornar para uma arquitetura de baixa preferência
 temporal? Uma arquitetura produzida lentamente, mas que volte a durar
 séculos?
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Remoção de entulho clandestino no [SIA]{.smallcaps}.
+  <br />
+  Foto: [Agência Brasília, 2023][]
+](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Mais_de_100_toneladas_de_lixo_e_entulho_retiradas_de_área_descampada_no_SIA.jpg/2560px-Mais_de_100_toneladas_de_lixo_e_entulho_retiradas_de_área_descampada_no_SIA.jpg)
+
+[Agência Brasília, 2023]: https://commons.wikimedia.org/wiki/File:Mais_de_100_toneladas_de_lixo_e_entulho_retiradas_de_área_descampada_no_SIA.jpg
 
 
 # Conceito de espaço #
@@ -1347,20 +1371,13 @@ se tornar rapidamente obsoleta.
 
 # Geometria e fractal #
 
-![Léon Krier, Distância e detalhes
-](/media/lk-scale.png)
-
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-![Câmara municipal de Palmela, Baixo Alentejo.
+![Francisco Frias de Mesquita, engenheiro.
+  Igreja de Nossa Senhora de Monserrate do Mosteiro de São Bento,
+  Rio de Janeiro, 1617 (projeto), 1633--41 (construção).
   <br />
-  Levantamento: Pedro P. Palazzo, 2023
-](/media/palmela-limpo.jpg)
-
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-![
-](/media/2020-04-15-5322.png)
+  Traçado regulador da fachada segundo Sandra @alvim:1997arquitetura.
+  Dimensionamento básico pela √2
+](/media/BR-RJ-RJ-MSBENTO-TRE-D2-10010-ALVIM-055B.png){#fig:msbentoB .line}
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
@@ -1375,6 +1392,35 @@ Segundo @salingaros:2013geometrical, trata-se de
 "fundamentalismo geométrico".
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![Léon Krier, Distância e detalhes
+](/media/lk-scale.png)
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![Câmara municipal de Palmela, Baixo Alentejo.
+  <br />
+  Levantamento: Pedro P. Palazzo, 2023
+](/media/palmela-limpo.jpg)
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![](/media/2020-04-15-5322.png)
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![Museu da Vinha, Madalena, ilha do Pico, Açores.
+  <br />
+  Foto: Pedro P. Palazzo, 2022
+](/media/pt-acores-madalena-mus_vinha-220713-pp-01528.jpg){#fig:vinha-pedras}
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![Museu da Vinha, Madalena, ilha do Pico, Açores.
+  <br />
+  Foto: Pedro P. Palazzo, 2022
+](/media/pt-acores-madalena-mus_vinha-220713-pp-01530.jpg){#fig:vinha-pedras}
 
 # Identidade #
 
@@ -1451,6 +1497,13 @@ em risco a integridade do sistema, ao contrário das construções modernas
   abrigo para sem-teto Saint Julian, em San José, Califórnia, 1989
 ](/media/alexander-shelter.jpg)
 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![Paulo Gouveia, arquiteto,
+  Museu da Vinha, Madalena, ilha do Pico, Açores.
+  <br />
+  Foto: Pedro P. Palazzo, 2022
+](/media/pt-acores-madalena-mus_vinha-220713-pp-01524.jpg){#fig:vinha}
 
 ## Por que a arquitetura moderna não é capaz de resolver os problemas socioeconômicos do ambiente construído ##
 
