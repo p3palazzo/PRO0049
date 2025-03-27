@@ -21,7 +21,7 @@ no patrimônio cultural tinham que trazer a "marca do nosso tempo".
 ![Casarão azul de Planaltina.
 <br />
 Foto: Pedro P. Palazzo, 2009
-](/media/BR-DF-Planaltina-Casarao_Azul-2924.jpg)
+](/media/br-df-planaltina-casazul-pp-3018-crop.jpg)
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
@@ -161,7 +161,7 @@ O que nos leva à pergunta:
 
 ## A arquitetura kaingang é tradicional? ##
 
-![Mata Kaingang. Foto: [Nayara S. Vieira, 2014][]](../media/br-sc-xapeco-mata_kaingang-flickr-gugunana-141126-15928457261_6004976050_k.jpg){#fig:mata_kaingang}
+![Mata Kaingang. Foto: [Nayara S. Vieira, 2014][]](/media/br-sc-xapeco-mata_kaingang-flickr-gugunana-141126-15928457261_6004976050_k.jpg){#fig:mata_kaingang}
 
 [Nayara S. Vieira, 2014]: https://www.flickr.com/photos/gugunana/albums/72157647243175224/
 
@@ -200,16 +200,16 @@ eram escavadas na terra e tinham uma cobertura em madeira
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Território kaingang anterior ao século XIX. Reconstituição por @nimuendaju:1987mapa, 1944](../media/nimuendaju-kaingang.jpg){#fig:nimuendaju-kaingang}
+![Território kaingang anterior ao século XIX. Reconstituição por @nimuendaju:1987mapa, 1944](/media/nimuendaju-kaingang.jpg){#fig:nimuendaju-kaingang}
 :::
 ::: {.column width=50%}
-![Corte da casa subterrânea kaingang. Reconstituição por @mentz:1999tradicao](../media/mentz_ribeiro-a_tradicao_taquara_e_as_casas_subterraneas_no_sul_do_brasil-1999-fig09.png){#fig:casa_subte .line}
+![Corte da casa subterrânea kaingang. Reconstituição por @mentz:1999tradicao](/media/mentz_ribeiro-a_tradicao_taquara_e_as_casas_subterraneas_no_sul_do_brasil-1999-fig09.png){#fig:casa_subte .line}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-![Reconstituição de casas subterrâneas kaingang, baseada em escavações em Urubici, Campo Belo do Sul e Lages (Santa Catarina). Fonte: [Roberta Brizola e Fábio Nienow para <cite>Diário Catarinense</cite>, 2015][]](../media/clicrbs-dc_historiasreveladas-indios-info-01-nienow.jpg){#fig:indios-info}
+![Reconstituição de casas subterrâneas kaingang, baseada em escavações em Urubici, Campo Belo do Sul e Lages (Santa Catarina). Fonte: [Roberta Brizola e Fábio Nienow para <cite>Diário Catarinense</cite>, 2015][]](/media/clicrbs-dc_historiasreveladas-indios-info-01-nienow.jpg){#fig:indios-info}
 
 [Roberta Brizola e Fábio Nienow para <cite>Diário Catarinense</cite>, 2015]: https://www.clicrbs.com.br/sites/swf/dc_historiasreveladas/index.html
 
@@ -263,13 +263,13 @@ da madeira e, principalmente, com uma forma circular que
 remete à forma das antigas casas subterrâneas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Escola Tartaruga na Mata Kaingang. Foto: [Marcelo Marques de Melo, 2009][]](../media/br-sc-xapeco-mata_kaingang-flickr-mmmarcelo2008-090707-3773227169_7ebc2ff65c_o.jpg){#fig:tartaruga}
+![Escola Tartaruga na Mata Kaingang. Foto: [Marcelo Marques de Melo, 2009][]](/media/br-sc-xapeco-mata_kaingang-flickr-mmmarcelo2008-090707-3773227169_7ebc2ff65c_o.jpg){#fig:tartaruga}
 
 [Marcelo Marques de Melo, 2009]: https://www.flickr.com/photos/25857805@N08/albums/72157621900396590
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-![Casa do artesão Kaingang, aldeia Kondá. Foto: [Assessoria de comunicação social do Ministério Público Federal em Santa Catarina, 2022][]](../media/br-sc-chapeco-konda-casa_artesao-interior-mpfsc-2022.jpeg){#fig:konda-int width="1440px"}
+![Casa do artesão Kaingang, aldeia Kondá. Foto: [Assessoria de comunicação social do Ministério Público Federal em Santa Catarina, 2022][]](/media/br-sc-chapeco-konda-casa_artesao-interior-mpfsc-2022.jpeg){#fig:konda-int width="1440px"}
 
 [Assessoria de comunicação social do Ministério Público Federal em Santa Catarina, 2022]: https://www.mpf.mp.br/sc/sala-de-imprensa/noticias-sc/casa-do-artesao-na-aldeia-konda-em-chapeco-e-inaugurada-apos-seis-anos-de-trabalho-coletivo
 
@@ -315,37 +315,33 @@ de uma arquitetura bem distante dos Kaingang.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Monte da Herdade do Rego, Elvas, Portugal, vista desde o norte
-](../media/pt-elvas-Jose-Baganha-Monte-Herdade-Rego-001.jpg){#fig:rego001}
+](/media/pt-elvas-Jose-Baganha-Monte-Herdade-Rego-001.jpg){#fig:rego001}
 
 [Monte da Herdade do Rego]: https://jbaganha.com/pt/portfolio/monte-da-herdade-do-rego/
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 ![Monte da Herdade do Rego, vista interna
-](../media/pt-elvas-Jose-Baganha-Monte-Herdade-Rego-007.jpg){#fig:rego007}
+](/media/pt-elvas-Jose-Baganha-Monte-Herdade-Rego-007.jpg){#fig:rego007}
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-![José Baganha, arquiteto. [Monte da Herdade do Rego][], Elvas, 2003.
+![José Baganha, arquiteto, [Monte da Herdade do Rego][], Elvas, 2003.
 Foto: [FG+SG]{.smallcaps} Fotografia de Arquitectura
-](../media/pt-elvas-Jose-Baganha-Monte-Herdade-Rego-009.jpg){#fig:rego009}
+](/media/pt-elvas-Jose-Baganha-Monte-Herdade-Rego-009.jpg){#fig:rego009}
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 ![Monte da Herdade do Rego, elevação de fundos
-](../media/pt-elvas-Jose-Baganha-Monte-Herdade-Rego-002.jpg){#fig:rego002}
+](/media/pt-elvas-Jose-Baganha-Monte-Herdade-Rego-002.jpg){#fig:rego002}
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-![José Baganha, arquiteto. [Monte da Herdade do Rego][], Elvas, 2003. Foto: [FG+SG]{.smallcaps} Fotografia de Arquitectura](../media/pt-elvas-Jose-Baganha-Monte-Herdade-Rego-013.jpg){#fig:rego013}
-
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-![José Baganha, arquiteto. [Monte da Herdade do Rego][], Elvas, 2003. Planta do rés-do-chão reproduzida por @cenicacelaya:2014arquitectura](../media/JBAGANHA-HERDADE_REGO-LVE-RDC-D1-A-10010-CENICACELAYA.png){#fig:rego_rdc .line}
-
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-![José Baganha, arquiteto. [Monte da Herdade do Rego][], Elvas, 2003. Estudo preliminar da casa do caseiro e anexos, reproduzido por @cenicacelaya:2014arquitectura](../media/JBAGANHA-HERDADE_REGO-EPN-CCM-D1-A-100XX-CENICACELAYA.jpg){#fig:rego_anexos}
+![José Baganha, arquiteto,
+  [Monte da Herdade do Rego][], Elvas, 2003.
+  <br />
+  Foto: [FG+SG]{.smallcaps} Fotografia de Arquitectura
+](/media/pt-elvas-Jose-Baganha-Monte-Herdade-Rego-013.jpg){#fig:rego013}
 
 
 ## Arquitetura tradicional e moderna ##
@@ -387,7 +383,7 @@ com esqueleto estrutural em aço.
 Tradicional ou moderno?
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Seis diferenças entre <br /> arquitetura tradicional e moderna #
+# Arquitetura tradicional *vs.* arquitetura moderna #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ficou claro que a diferença entre arquitetura tradicional e moderna
@@ -398,10 +394,12 @@ Essa diferença é formada por três categorias de aspectos:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: r-fit-text
 &nbsp;
 
-|                | Aspectos produtivos  | Aspectos objetivos                 | Aspectos sensíveis  |
-|----------------|----------------------|------------------------------------|---------------------|
-| **Ações**      | Lugar do saber       | Conceito de espaço                 | Geometria e fractal |
-| **Resultados** | Preferência temporal | Representação <br /> da identidade | Tipo e variedade    |
+|                | Aspectos produtivos  | Aspectos objetivos | Aspectos sensíveis  |
+|----------------|----------------------|--------------------|---------------------|
+| **Ações**      | Lugar do saber       | Conceito de espaço | Geometria e fractal |
+| **Resultados** | Preferência temporal | Tipo e variedade   | Identidade          |
+
+Table: Seis diferenças entre arquitetura tradicional e moderna <br />&nbsp;
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -412,11 +410,30 @@ O cerne da arquitetura tradicional, e o eixo estruturante de todo este
 curso, está em certos modos de produzir o ambiente construído. Esses
 modos fazem parte dos saberes populares em várias regiões do mundo
 ([@fig:hrrp]), coexistem hoje em dia com a construção moderna e são
-influenciados por ela. A construção tradicional também é praticada por
-arquitetos eruditos, como o japonês Shigeru Ban ([@fig:ban-np]). O
-arquiteto americano Steve Mouzon chama essas culturas construtivas
-tradicionais de "o verde originário", por serem sustentáveis desde
-sempre.
+influenciados por ela.
+
+O processo produtivo da arquitetura depende de quem detém
+os saberes da construção, o acesso à matéria-prima e ao capital
+necessário para transformar a matéria-prima em sistema construtivo.
+Nesse sentido, a modernização da arquitetura é um processo que leva a
+um controle cada vez mais centralizado sobre os processos produtivos.
+Isso faz parte de um processo global que tende a transformar
+os artesãos e os usuários da construção em consumidores
+totalmente dependentes de um mercado comercial e dominado por
+grandes empresas transnacionais.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em contraste, a construção tradicional usa sobretudo materiais locais,
+que podem ser obtidos a baixo custo ou mesmo de graça
+no próprio local da obra.
+Isso não exclui o consumo com parcimônia de materiais industriais,
+mas o processo produtivo é determinado pelo conhecimento técnico
+que detêm os construtores locais.
+Eles não são meros consumidores de produtos embalados e especificados,
+mas produtores ativos com capacidade de escolha.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Casa em pedra lavrada e tijolos com argamassa de barro, Nepal, 2018. Foto: [Housing Reconstruction Program](https://www.flickr.com/photos/147661892@N04/41502875850/)](https://live.staticflickr.com/1785/41502875850_8726dee05f_k_d.jpg){#fig:hrrp .outset}
@@ -426,6 +443,14 @@ sempre.
 ::: align-right
 ![Shigeru Ban, arquiteto, casa no Nepal, após 2015. Foto: [Voluntary Architects Network](https://www.ribaj.com/culture/creation-from-catasrophe)](https://i.pinimg.com/originals/67/8c/26/678c2688f7c4ad296b83cb5dccb4a8b6.jpg){#fig:ban-np}
 :::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A construção tradicional também é praticada por
+arquitetos eruditos, como o japonês Shigeru Ban ([@fig:ban-np]). O
+arquiteto americano Steve Mouzon chama essas culturas construtivas
+tradicionais de "o verde originário", por serem sustentáveis desde
+sempre.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
@@ -684,7 +709,7 @@ ao clima foi substituída pela capacidade de consumir energia para
 aquecer e refrigerar qualquer tipo de espaço em qualquer clima.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Reconstituição de lagares romanos movidos a roda d'água em Barbegal, sul da França](https://departement13.atlas-paysages-paca.fr/wp-content/uploads/2021/12/PIM-Les-moulins-de-Barbegal-croquis-Signes-Paysages.png){.line}
+![Reconstituição de lagares romanos movidos a roda d'água em Barbegal, sul da França](/media/PIM-Les-moulins-de-Barbegal-croquis-Signes-Paysages.png){.line}
 
 * * * *
 
@@ -906,13 +931,30 @@ séculos?
 
 # Conceito de espaço #
 
-![Carl F. G. Waehlendt, palácio do Catete,
-Rio de Janeiro, 1858--66.
-<br />
-Foto: Pedro P. Palazzo, 2021
-](/media/br-rj-rj-pal_catete-pp-210405-1600.jpg)
+![Rob Krier, articulações espaciais em *Architectural Composition*, 1988
+](/media/krier-architectural_composition-1988-76.png)
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O processo produtivo da arquitetura é o que tem maior impacto
+no meio ambiente.
+Por isso, a transição das tradições artesanais para a centralização
+tecnológica e a alta preferência temporal da construção industrializada
+foi o primeiro aspecto que abordamos.
+Por outro lado,
+as características objetivas da arquitetura, ou seja,
+aquelas que dizem respeito à natureza do objeto construído,
+determinam a resiliência do ambiente construído.
+E o que é resiliência?
+É a capacidade de os edifícios serem adaptados
+às diferentes necessidades da comunidade ao longo dos séculos.
+Essa resiliência depende sobretudo da organização do espaço
+público e privado, e de como
+cada edificação exprime um caráter próprio que a distingue
+das demais.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+## Espacialidade moderna ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Hoje em dia, o espaço absoluto é a sensibilidade por padrão
@@ -998,66 +1040,67 @@ das plantas, trazendo mais fluidez para os espaços ([@fig:coda-planta;
 
 ![CoDA Arquitetos, [apartamento 410 Norte, 2017](http://coda.arq.br/projetos/Apartamentos/apartamento-410n), vista da sala e cozinha integradas após remoção de uma divisória](https://sitecoda.s3.amazonaws.com/uploads/content_block/image/2096/180727_Apt_Grilo_133.jpg){#fig:coda-vista}
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-![Francisco Marcelino de Souza Aguiar, engenheiro, palácio Monroe, Rio de Janeiro, 1906. [Planta do 1.º pavimento levantada em 1924]](https://hcommons.org/app/uploads/sites/1002372/2021/09/2560px-Planta_do_1_pavimento_do_Palacio_Monroe.jpg){#fig:monroe-plan}
-
-[Planta do 1.º pavimento levantada em 1924]: https://commons.wikimedia.org/wiki/File:Planta_do_1°_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif
-
-<!--_-->
+## Espacialidade tradicional ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em contraste, as diferentes culturas arquitetônicas tradicionais adotam
 perspectivas variadas com respeito à leitura de volumes claramente
 delimitados ou de uma certa fluidez espacial. Na tradição clássica do
-Mediterrâneo, a volumetria de formas definidas predomina claramente
-([@fig:monroe-plan]).
+Mediterrâneo, a volumetria de formas definidas predomina claramente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![José Baganha, arquiteto,
+  [Monte da Herdade do Rego][], 2003.
+  Vista desde o sul.
+  <br />
+  Foto: [FG+SG]{.smallcaps} Fotografia de Arquitectura
+](/media/pt-elvas-Jose-Baganha-Monte-Herdade-Rego-003.jpg){#fig:rego003}
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A arquitetura moderna apresenta exemplos totalmente diferentes da
-maioria das arquiteturas tradicionais, que trabalham com volumes muito
-bem definidos desde o início. São observadas diversas variações em torno
-desse tema, de acordo com cada cultura edilícia, principalmente naquelas
-que funcionam mais à compressão, como acontece, especialmente, na bacia
-do Mediterrâneo, Índia e Sudeste asiático. 
-
-Por exemplo, as casas de banho romanas eram compostas numa grelha de
-formas geométricas muito bem definidas, com ambientes independentes e
-que se articulam de forma elegante e simétrica em geral
-([@fig:thdio-plan]). Seus elementos estão totalmente definidos e sua
-movimentação é limitada por volumes, sendo cada espaço independente um
-do outro, diferentemente da continuidade espacial da arquitetura
-moderna. Destaca-se que o vazio é um conceito muito modernista, já que
-na arquitetura tradicional ele é considerado o nada, o que ainda não
-recebeu forma.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Termas de Diocleciano, Roma, 298--306 d.C. Planta: [Edmond Paulin, 1890](https://digi.ub.uni-heidelberg.de/diglit/paulin1890/0039)](https://i.pinimg.com/originals/4b/1a/7f/4b1a7fce1348fa77c0a380fdd33196f3.jpg){#fig:thdio-plan}
+![José Baganha, arquiteto,
+  [Monte da Herdade do Rego][], Elvas, 2003.
+  Planta do rés-do-chão reproduzida por @cenicacelaya:2014arquitectura
+](/media/JBAGANHA-HERDADE_REGO-LVE-RDC-D1-A-10010-CENICACELAYA.png){#fig:rego_rdc .line}
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-![Miguel Ângelo Buonarroti, arquiteto, Santa Maria degli Angeli e Martiri, Roma, 1562, implantada no tepidário das termas de Diocleciano. Foto: [Pedro P. Palazzo, 2015](https://commons.wikimedia.org/wiki/File:IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg/1280px-IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg){#fig:angeli .full}
+![José Baganha, arquiteto,
+  [Monte da Herdade do Rego][], Elvas, 2003.
+  Estudo preliminar da casa do caseiro e anexos,
+  reproduzido por @cenicacelaya:2014arquitectura
+](/media/JBAGANHA-HERDADE_REGO-EPN-CCM-D1-A-100XX-CENICACELAYA.jpg){#fig:rego_anexos}
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![José Baganha, arquiteto,
+  [Monte da Herdade do Rego][], 2003.
+  Vista do corredor de circulação principal.
+  <br />
+  Foto: [FG+SG]{.smallcaps} Fotografia de Arquitectura
+](/media/pt-elvas-Jose-Baganha-Monte-Herdade-Rego-011.jpg){#fig:rego011}
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![C. F. Gustav Waehlendt, palácio do Catete, Rio de Janeiro, 1858--66.
+  <br />
+  Foto: Pedro P. Palazzo, 2021
+](/media/br-rj-rj-pal_catete-pp-210405-1600.jpg)
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Por isso, no caso da arquitetura tradicional, vamos nos referir mais a
-volumes, ou seja, formas geométricas em três dimensões, do que a
-espaços. A essência da arquitetura tradicional em vários contextos,
-especialmente na grande zona que vai da Índia ao Oriente Médio e Bacia
-do Mediterrâneo, é a lógica de que é feita para conter e delimitar um
-certo volume, como bolhas de sabão ocas em uma banheira ou os programas
-de modelagem em 3D que trabalham com faces e não sólidos. Esses volumes
-são facilmente percebidos como formas geométricas mais ou menos
-complexas, mas sempre claramente delimitadas, na experiência que se pode
-ter numa construção tradicional ([@fig:angeli]).
+É possível ter fluidez espacial na arquitetura tradicional também.
+Nesse caso, ela é uma característica duma arquitetura com caráter
+de monumentalidade e formalidade.
+A fluidez vai então ser realizada com enfiadas de portas alinhadas:
+podemos ver através de vários ambientes,
+mas cada um desses ambientes preserva a sua individualidade
+e eles são separados por limiares claramente definidos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Ascensão da espacialidade moderna
 
 ![Jean-Nicolas-Louis Durand, plantas para quaisquer tipos
-de edifícios](https://www.sensesatlas.com/wp-content/uploads/2021/03/gri_33125008472074-218-scaled.jpg){.line}
+de edifícios](/media/partiegraphiqued00dura_0060-1080p.png){.line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Portanto, diferencia-se do espaço modernista nesse aspecto também, já
@@ -1072,7 +1115,7 @@ Não se fala em espaço ou vazio na arquitetura tradicional como algo que
 exista, diferentemente das teorias do vazio de Paul Ricœur e da
 Fenomenologia, que o entendem de forma mais abstrata. Trata-se de um
 conceito muito modernista e até mesmo contemporâneo (principalmente no
-final do século  [XX]{.smallcaps}), difundindo-se como "algo que ainda
+final do século [XX]{.smallcaps}), difundindo-se como "algo que ainda
 não recebeu forma". Desse modo, a arquitetura formata volumes e
 geometrias, que passam a existir a partir do momento em que são criados
 por ela, adquirindo, assim, significados arquitetônicos. 
@@ -1148,267 +1191,82 @@ processo favorece.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-# Representação da identidade #
-
-
-# Geometria e fractal #
-
-
 # Tipo e variedade #
 
-
-# 
-
-## Tradicional ou vernacular? ##
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Em 1964, o
-arquiteto americano Bernard Rudofsky apresentou a exposição Arquitetura
-sem Arquitetos ([@fig:awa]) no Museu de Arte Moderna de Nova York (MoMA).
-Essa exposição deu a deixa para "libertar" o conceito moderno de
-arquitetura do domínio do ofício formal do arquiteto. Depois, veio em
-1969 o livro *House Form and Culture* de Amos Rapoport
-[@rapoport:1969house], que deu uma base sociológica para o estudo da
-arquitetura popular. O estudo da arquitetura vernácula
-ajuda a desmantelar aquela definição elitista da arquitetura vinculada à
-profissão do arquiteto. Já vimos como essa definição nos leva ao
-anacronismo e a uma visão equivocada da arquitetura tradicional.
+Para Alexander @tzonis:1972non-oppressive,
+o que caracteriza a modernidade é o fato de que a arquitetura
+deixou de representar a estrutura social e cultural da comunidade,
+e se tornou o que chamamos de *commodity*.
+Uma *commodity* é qualquer produto facilmente intercambiável por
+outros produtos semelhantes.
+Portanto, uma *commodity* qualquer interessa sobretudo do ponto de vista
+de poder ser comprada e vendida, e que pode ter o seu preço de venda
+comparado com outros produtos do mesmo tipo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Exposição *Architecture without Architects*. [MoMA (1964)](https://www.moma.org/calendar/exhibitions/3459)](https://i.pinimg.com/originals/83/b1/75/83b175c80cbdc0a22a7717a94a8506e2.jpg){#fig:awa}
+![Léon Krier, Dois modos de acumulação](/media/lk-accumulation.png)
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-![Lucio Costa, croquis no artigo Documentação necessária (1937)](https://i.pinimg.com/originals/a7/a6/6d/a7a66df7327e2599cc0f819858feef05.png){#fig:docnec .line}
+![Site da Real Engenharia](/media/realeng.jpg)
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Rudofsky era um arquiteto modernista. A relação do movimento Moderno com
-o problema da unidade *versus* diversidade da arquitetura tradicional é
-contraditória, mas as idas e vindas nesse argumento nos ajudam a
-perceber melhor a diferença entre arquitetura tradicional e a moderna.
-Para alguns autores importantes do modernismo, afirmar que a tradição
-tem uma essência unitária por cima das diferenças de período histórico
-ou região era um meio de legitimar o próprio modernismo. O suíço
-Sigfried Giedion [@giedion:1961space] e o brasileiro Lucio Costa usaram esse
-argumento para afirmar que a arquitetura moderna nada mais é do que a
-última etapa no desenvolvimento natural da arquitetura. Costa chegou
-mesmo a esquematizar essa pretensão de naturalidade num croquis muito
-famoso de 1937 [@costa:1937documentacao1, 36--37]. Esse croquis foi
-publicado na primeira edição da *Revista do Patrimônio* e mostra uma
-espécie de "história" da arquitetura brasileira como uma progressão de
-menos janelas para mais janelas, terminando, é claro, na janela--fita do
-modernismo ([@fig:docnec]).
+O mercado imobiliário é um exemplo de como a arquitetura,
+hoje em dia, funciona como uma *commodity*:
+quem quer comprar ou vender compara o preço de um imóvel
+com outros imóveis semelhantes (apartamentos ou lajes de escritórios,
+por exemplo).
+Novos lançamentos imobiliários são promovidos
+e percebidos por potenciais compradores como produtos genéricos,
+onde as diferenças entre eles se resumem a algumas preferências
+pessoais para além do custo / benefício financeiro por metro quadrado.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Moralismo e arquitetura ##
+## Tipologia ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Os discursos que se servem da pretensão continuidade
-entre tradição e modernidade costumam ser discursos moralistas. Eles
-enxergam algum defeito não só estético, mas sobretudo ético, em algum
-momento da história da arquitetura, e prometem um movimento
-arquitetônico que vai recuperar a moralidade perdida --- principalmente
-no que diz respeito a uma suposta exigência de correspondência direta
-entre tecnologia e estilo.
+Em contraste, a arquitetura tradicional é concebida segundo
+o propósito intrínseco a cada edificação.
+É verdade que existe um mercado imobiliário especulativo
+na arquitetura residencial desde a Idade Média,
+mas ninguém pensaria no valor de compra e venda, digamos, duma igreja,
+nem no preço por metro quadrado de um palácio.
+E mesmo as casas especulativas tradicionais acabam sendo
+séries onde há repetição com variações individuais
+em vez de unidades imobiliárias produzidas em massa de forma idêntica.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Casas correntes do século [XIV]{.smallcaps}
+  em Castelo de Vide, Alto Alentejo.
+  <br />
+  Foto: [Pedro P. Palazzo, 2018](https://commons.wikimedia.org/wiki/File:Cidade_renascentista_(30223199128).jpg)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Cidade_renascentista_(30223199128).jpg/2560px-Cidade_renascentista_(30223199128).jpg){#fig:vide_vila}
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 ::: align-right
-![John Ruskin, [autorretrato, 1861](https://commons.wikimedia.org/wiki/File:John_Ruskin_self_portrait_1861.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/John_Ruskin_self_portrait_1861.jpg/766px-John_Ruskin_self_portrait_1861.jpg){#fig:ruskin}
+![Diagramas de casas vernáculas, c. 1900](https://i.pinimg.com/originals/2e/87/30/2e8730f7f9488b03edf17ff565d7bb22.jpg){#fig:vern1900}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Só que esse modo de argumentar não nasceu com o modernismo; ele aparece
-desde alguns autores século [XVIII]{.smallcaps}, e se torna um modo
-hegemônico de falar de arquitetura pela metade do século
-[XIX]{.smallcaps}. Quem mais se destacou com argumentos moralistas nessa
-época foi o arquiteto, pintor e fotógrafo inglês John Ruskin ([@fig:ruskin]). Ele é um
-autor bastante popular entre os arquitetos brasileiros hoje em dia,
-especialmente por causa das suas ideias radicais sobre restauro e sobre
-a emancipação do operário no canteiro de obras.
+A essa repetição com variações que caracteriza a arquitetura tradicional
+de cada região e de cada cultura, damos o nome de tipologia.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-![John Ruskin, arco gótico com cúspide, 1853. Lápis, carvão, nanquim, aguada, pintura a óleo e pintura dourada sobre papel. [Ruskin Foundation](https://commons.wikimedia.org/wiki/File:Decorated_cusped_gothic_window.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Decorated_cusped_gothic_window.jpg/983px-Decorated_cusped_gothic_window.jpg){#fig:ruskin-cusp}
+![Gianfranco Caniggia, tipologia da cidade medieval de Como, Itália, 1965
+](/media/como-ii-retificado.png)
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-::: align-right
-![John Ruskin, Santa Maria della Spina, Pisa, 1846--1847. Aquarela. Reproduzida pelo [The New York Times](https://www.nytimes.com/2019/02/05/arts/john-ruskin-bicentennial.html)](https://i.pinimg.com/564x/1e/37/51/1e3751a31450cb2249edb61aea32a902.jpg){#fig:spina}
-:::
+![Tipologia de detalhes e ornamentos em Castelo de Vide.
+  <br />
+  Desenho: Pedro P. Palazzo, 2018
+](/media/castelo-de-vide-transect-1080p.png)
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Ruskin propõe uma teoria que é familiar e interessante para o nosso
-estudo. No seu livro mais famoso, *As sete lâmpadas da arquitetura*, de
-1849 [@ruskin:1849seven], ele argumenta que a arquitetura precisa
-representar a *verdade* (segunda lâmpada). Para isso, o edifício deve
-expor o seu sistema construtivo com clareza, como na arquitetura gótica ([@fig:ruskin-cusp]).
-Mas ele equilibra a verdade com a *vida* (quinta lâmpada). A vida, para
-Ruskin, aparece quando o construtor se sente realizado numa organização
-tradicional do trabalho como, também, a do canteiro gótico ([@fig:spina]),
-onde ele pode trabalhar com autonomia e criatividade. O construtor no
-canteiro, e não o arquiteto no seu escritório...
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-::: align-right
-![David Watkin](https://i.pinimg.com/564x/c3/5b/b6/c35bb662a5796df1b548597efe4fdcbf.jpg){#fig:watkin}
-:::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O historiador inglês David Watkin ([@fig:watkin]), em 1968
-[@watkin:1977morality], jogou Ruskin e os modernistas no mesmo balaio: o
-dos autores que justificam o *estilo* arquitetônico pelas suas
-conotações *morais*. Watkin mostrou que essa associação é puramente
-arbitrária e não tem nada a ver com aspectos intrínsecos à obra
-arquitetônica. O que Watkin tinha em mente nessa discussão era uma
-definição de arquitetura enquanto prática profissional. A única coisa
-que o estilo representa é o próprio estilo, assim como a prática dos
-diferentes ofícios da construção --- do pedreiro ao arquiteto ---
-exprime o próprio lugar dessas práticas no processo produtivo da
-arquitetura. O estilo não representa visualmente o modo de fazer a
-arquitetura, e a rigor qualquer modo de produzir as construções pode se
-*vestir* com qualquer estilo.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O ecletismo é exatamente isso, mas também temos exemplos onde uma
-estética modernista *veste* uma construção tecnologicamente "atrasada":
-é o caso da residência projetada pelo arquiteto Gregori Warchavchik na
-vila Mariana, em São Paulo ([@fig:warchavchik]). A ironia da chamada "casa
-modernista" de Warchavchik não é tanto que ela tenta disfarçar uma
-construção com telhado cerâmico e paredes portantes, e fingir uma
-cobertura plana ou janelas--fita. A ironia é que a própria existência
-dessa casa demonstra a continuidade entre, de um lado, o processo
-construtivo que está por trás dos estilos ecléticos e, do outro, as
-demandas estéticas do modernismo.
-
-Essa continuidade dá razão, pelo menos em parte, a Ruskin quando ele
-afirma que o processo construtivo é um fator determinante para
-caracterizar a arquitetura. Com esse
-conflito entre uma descrição da arquitetura baseada em *estilos* e outra
-baseada no *processo produtivo*, vamos enfim conseguir distinguir a
-arquitetura tradicional da arquitetura moderna.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Gregori Warchavchik, casa modernista na vila Mariana, São Paulo (residência Klabin--Warchavchik, 1927--1928)](https://i.pinimg.com/originals/32/61/e1/3261e14c64845e6778bc7eab678a9339.jpg){#fig:warchavchik}
-
-
-## Por uma arquitetura tradicional sem moralismos ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A diferença entre a arquitetura tradicional e a moderna,
-como acabamos de ver, *não consiste* na rejeição ou na adoção de algum
-estilo por motivos ideológicos --- seja esse estilo clássico, gótico,
-modernista ou qualquer outro.
-O moralismo pode se vestir de qualquer viés ideológico:
-para a militância de direita, o modernismo é comunista...
-Para a militância de esquerda, o tradicionalismo é fascista...
-Para o ambientalismo do bicho-grilo, quase toda arquitetura é capitalista...
-Para o ambientalismo capitalista, a sustentabilidade é um bem de consumo!
-Mas esses rótulos e slogans não nos dizem nada sobre
-a arquitetura enquanto objeto ou enquanto processo produtivo,
-muito menos sobre o que a produção da arquitetura faz com a sociedade.
-
-O que distingue o tradicional do moderno,
-afinal, é a transição gradual nos *modos de fazer* arquitetura --- da
-organização do trabalho ao sistema de financiamento da construção,
-passando pelas tecnologias tangíveis e intangíveis usadas no processo
-produtivo.
-Evidentemente, temos um gradiente de transição entre
-o tradicional e o moderno, mas isso não nos impede
-de dar uma definição verdadeira e relevante
-para esses dois extremos.
-Verdadeira, porque ela se baseia em critérios que podem
-ser observados e descritos com clareza.
-Relevante, porque ela nos permite entender e pôr em prática
-um certo posicionamento político com respeito à produção e ao
-uso do ambiente construído.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-<!--
-   -2 oposições no processo,
-   -2 oposições no objeto e
-   -2 do processo para o objeto.
-   -->
-
-
-## Princípios da construção tradicional ## {data-background-video="https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm" data-background-video-loop="true" data-background-video-muted="true" data-background-opacity="0.25" data-background-transition="fade-in slide-out"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-As propriedades mais importantes da construção tradicional que decorrem
-desses processos artesanais são:
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
-1. Compressão é preferível à flexão
-
-2. Repetição com variações
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Preferência pela compressão ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No que diz respeito à compressão, em primeiro lugar, as
-grandes massas de parede resolvem de uma tacada só uma série de
-requisitos de desempenho da edificação ([@fig:sharaman]). As estruturas
-aparentemente superdimensionadas para as cargas verticais na verdade
-consideram também o contraventamento para flambagem da própria estrutura
-e para cargas horizontais, como o vento ou terremotos.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-------
-
-![Análise de desempenho térmico e qualidade do ar em construção tradicional na Beira Alta, Portugal. [Fernandes (2020)](https://www.mdpi.com/1996-1073/13/3/624)](https://i.pinimg.com/originals/8d/57/27/8d57279cd24b5142bea444e78813edad.png){#fig:fernandes .outset}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Além disso, a massa de material denso --- que pode ser pedra, tijolo ou
-taipa --- funciona como isolante térmico e acumulador passivo de calor
-([@fig:fernandes]). Por outro lado, mesmo essas grandes massas são porosas
-em certa medida: isso mantém uma boa qualidade do ar interior, sem pôr
-em risco a integridade do sistema, ao contrário das construções modernas
-[@fernandes:2020thermal13].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-------
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Quando a estrutura principal é um esqueleto em madeira, a redundância
-construtiva resulta naturalmente da baixa resistência da madeira ao
-cisalhamento --- isso é válido tanto na construção tradicional quanto na
-moderna. O detalhamento dos apoios nas extremidades das vigas, usando
-capitéis ou mãos, dá um caráter distintivo marcante a cada uma das
-inúmeras tradições arquitetônicas da madeira
-([@fig:todaiji-daibutsudou-tokyou]). As árvores e o volume de florestas em
-cada região são o principal fator de dimensionamento dos elementos
-principais --- colunas ou esteios e vigas ou barrotes.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![*Dougong* (mãos) na portada do salão dourado do Tōdaiji, Nara, Japão, 1709. Foto: [Gisling, 2007](https://commons.wikimedia.org/wiki/File:Todai_ji_dougong.JPG)](https://upload.wikimedia.org/wikipedia/commons/2/2b/Todai_ji_dougong.JPG){#fig:todaiji-daibutsudou-tokyou .outset}
-
-------
-
-:::::::::::::::::::::::::::::::: {#fig:satoyama .iframe-wrapper .outset}
-<iframe width="1706" height="960" src="https://www.youtube-nocookie.com/embed/PtF0R2JXAQ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Floresta manejada de Satoyama, Japão. [UN University](https://youtu.be/PtF0R2JXAQ8)
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Na Europa ocidental e na Ásia oriental, desde a Idade Média, o manejo e
-a renovação das florestas de onde se extraía a madeira tem sido uma
-preocupação central para a salvaguarda das tradições construtivas. Esse
-manejo assumiu formas variadas historicamente, desde os privilégios da
-nobreza sobre o uso das matas na França medieval até interditos
-religiosos sobre florestas sagradas no Japão da Idade Moderna
-([@fig:satoyama]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Repetição com variações ##
 
@@ -1420,15 +1278,15 @@ arquitetura moderna tenta realizar em cada obra expressões estéticas
 originais a partir de componentes industriais idênticos. A arquitetura
 tradicional, ao contrário, não tem problema em alinhar composições
 parecidas entre si, usando componentes que são sempre ligeiramente
-diferentes de uma obra para a outra, como nas construções em volta da
-piazza del Campo, em Siena ([@fig:siena-campo]).
+diferentes de uma obra para a outra.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: full
-![Piazza del Campo, Siena. Foto: [Pedro P. Palazzo, 2015](https://www.flickr.com/photos/arqpalazzo/50916238581/in/dateposted-public/)](https://live.staticflickr.com/65535/50916238581_b35e751ae5_k_d.jpg){#fig:siena-campo}
-:::
+![Rua direita em Pirenópolis.
+  <br />
+  Foto: Pedro P. Palazzo, 2018
+](/media/br-go-pirenopolis-rua_direita-180810-pp-7649.jpg)
 
-------
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 É claro que *alguns* componentes tradicionais tendem a ser mais
@@ -1445,7 +1303,7 @@ importante, como nessa casa romana em Herculano ([@fig:gdportale]).
 ![Colunas em tijolos curvos, casa da Portada Grande, Herculano, século I d.C. Foto: [Paul Turner, 2008](https://www.flickr.com/photos/11602696@N00/2934482172/in/photostream/)](https://live.staticflickr.com/3208/2934482172_cfa66bd9ac_c_d.jpg){#fig:gdportale}
 :::
 
-------
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Elementos maiores, como portas e janelas completas, são produzidos caso
@@ -1457,8 +1315,6 @@ condicionados às dimensões do lote, sem aqueles espaços residuais que
 são a praga de muitas construções modernas. Por isso é que dizemos que a
 arquitetura tradicional se baseia na repetição de formas semelhantes,
 com variações nos casos particulares.
-
-* * * * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::: {#fig:balmaseda .iframe-wrapper .outset}
@@ -1467,11 +1323,22 @@ com variações nos casos particulares.
 Marcenaria de Miguel Ángel Balmaseda, Écija, Espanha. [Premio Richard H. Driehaus de las Artes de la Construcción, 2019](https://youtu.be/N95Hdl79zTY)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-------
 
-::: full
-![Cidade de pedra, Zanzibar, Tanzânia, séculos [XIV--XIX]{.smallcaps}. Foto: [Aakash Mehrotra, 2015](https://handofcolors.me/2015/10/13/stone-town-zanzibar-a-road-to-follow/)](https://i.pinimg.com/originals/fa/5e/64/fa5e644654ef44ef36e1a6496ed196fc.jpg){#fig:zzstone}
-:::
+## Objetos reconhecíveis ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Um aspecto importante da tipologia, ao qual retornaremos ao falar de
+identidade, é o reconhecimento dos objetos arquitetônicos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Léon Krier, objetos típicos (reconhecíveis) vs.
+  objetos pastiches (arbitrários)
+](/media/lk-objets-types.png)
+
+
+## Resiliência ##
+
+![Cidade de pedra, Zanzibar, Tanzânia, séculos [XIV--XIX]{.smallcaps}. Foto: [Aakash Mehrotra, 2015](https://handofcolors.me/2015/10/13/stone-town-zanzibar-a-road-to-follow/)](https://i.pinimg.com/originals/fa/5e/64/fa5e644654ef44ef36e1a6496ed196fc.jpg){#fig:zzstone .full}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa repetição com variações é a característica fundamental dos
@@ -1485,167 +1352,131 @@ processo produtivo da construção, em todas as tradições do mundo, como
 aqui em Zanzibar, na Tanzânia ([@fig:zzstone]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/a2/c6/92/a2c692edb6ef0b76a966a6d7b51b6dbf.jpg" data-background-position="left" data-background-size="contain"}
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Caracterizar a arquitetura tradicional como sendo um produto de
-sociedades sem história e sem progresso tecnológico nos leva de um erro
-interpretativo para outro, que, este, é mais específico ao domínio da
-história da arquitetura. A polarização entre arquitetura "não histórica"
-e arquitetura "histórica" [@fletcher:1905history] reforça um viés
-evolucionista que está no centro das grandes narrativas convencionais em
-História da arte ([@fig:treearch]).
+O método projetual do modernismo é uma expressão da
+arquitetura enquanto *commodity*:
+segundo Helio Piñón, o projeto deve seguir apenas
+os requisitos internos ao programa de necessidades.
+Nem toda arquitetura tradicional é extremamente durável,
+mas toda arquitetura funcionalista tem a garantia de
+se tornar rapidamente obsoleta.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-------
+![Helio Piñón, arquiteto,
+  Prédio de apartamentos em Onda, Castellón, 2001
+](/media/pinon-teoria_del_proyecto-2006-037.jpg){#fig:pinon}
 
-::: align-right
-![Diagramas de casas vernáculas, c. 1900](https://i.pinimg.com/originals/2e/87/30/2e8730f7f9488b03edf17ff565d7bb22.jpg){#fig:vern1900}
-:::
+
+# Geometria e fractal #
+
+![Léon Krier, Distância e detalhes
+](/media/lk-scale.png)
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![Câmara municipal de Palmela, Baixo Alentejo.
+  <br />
+  Levantamento: Pedro P. Palazzo, 2023
+](/media/palmela-limpo.jpg)
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![
+](/media/2020-04-15-5322.png)
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![Le Corbusier, arquiteto. Villa Stein, Garches, 1926--28,
+fachada e alçado posterior.
+<br />
+Fonte: desenho do arquiteto em *Œuvre complète* v. 1, 1946
+](/media/garches.png){#fig:garches}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Na maioria dos livros-texto de História da arte e da arquitetura até
-hoje, esse viés fica bem evidente na distinção entre culturas artísticas
-eruditas e culturas vernáculas. Arquiteturas *históricas* são aquelas
-que se caracterizam, na narrativa, pela transformação ao longo do tempo,
-uma transformação impulsionada pelos grandes monumentos eruditos da
-Europa. Essa arquitetura erudita da Europa tem, geralmente, nome e
-sobrenome, com artistas ou, no mínimo, mecenas que se destacam pela sua
-contribuição para as inovações artísticas. Em contraste, as tradições
-vernáculas, tanto na Europa quanto em outras regiões do mundo, são
-relegadas a um segundo plano como um substrato cultural que (quase)
-nunca muda ([@fig:vern1900]), e pode ser liquidado em um ou dois capítulos
-*pro forma*.
+Segundo @salingaros:2013geometrical, trata-se de
+"fundamentalismo geométrico".
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Arquitetura é construção #
+
+# Identidade #
+
+![Christopher Alexander, arquiteto, Linz Café, 1965
+](https://www.patternlanguage.com/img/projects/linz10.jpg)
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Este curso começa explorando os três princípios da arquitetura:
-construção, espacialidade e plástica. A divisão da arquitetura nessas
-três componentes conceituais foi formulada no tratado de Vitrúvio, por
-volta do ano 15 a.C. [@vitruvio:2007tratado, I, iii]:
+A identidade é a culminação de tudo aquilo que distingue
+a arquitetura tradicional da arquitetura moderna.
+Pode parecer estranho falar em identidade como um aspeto sensível
+da arquitetura, porque
+geralmente pensamos em identidade como
+uma característica social ou cultural abstrata,
+intangível e invisível.
+Pelo contrário, aqui vamos seguir a definição de identidade
+que formulou o matemático e arquiteto
+Christopher @alexander:2002phenomenon.
+Segundo ele, a boa arquitetura nos oferece um reflexo
+da nossa identidade humana.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Tríade vitruviana ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a3/Vitruvius.jpg" data-background-position="right" data-background-opacity="0.7"}
-
-. . .
-
-Firmitas
-
-: Solidez da construção, tanto na realidade quanto na segurança visual
-  que ela transmite. Durabilidade e sustentabilidade dos processos
-  construtivos.
-
-. . .
-
-Utilitas
-
-: Funcionalidade dos espaços arquitetônicos, considerando a sua
-  resiliência diante das inevitáveis mudanças de uso que ocorrem no
-  longo prazo.
-
-. . .
-
-Venustas
-
-: Geralmente traduzida como beleza ou agrado, inclui também a adequação
-  visual de uma construção ao seu propósito social mais amplo.
-
-------
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Cada um desses princípios é a base para uma categoria de definições
-muito difundidas da arquitetura; você certamente já ouviu falar em
-algumas delas. À [firmitas]{.smallcaps} corresponde a definição de que
-*arquitetura é construção*. À [utilitas]{.smallcaps} corresponde a
-definição de que *arquitetura é espaço socialmente organizado*. E à
-[venustas]{.smallcaps} corresponde a definição de que *arquitetura é
-arte*.
-
-Dos três princípios, a construção propriamente dita é o requisito para
-se chegar aos outros dois. Portanto, vamos considerar antes de mais nada
-que [Arquitetura é construção.]{.newthought} Temos que entender a
-construção, aqui, tanto como a materialidade das edificações, quanto
-como os processos que produzem as edificações: o trabalho e a cadeia de
-de fornecimento e processamento dos materiais ([@fig:terrachidia]).
+Podemos ir além de Alexander e pensar na identidade como
+uma propriedade que se manifesta em vários níveis.
+Temos uma identidade humana universal, que se manifesta em
+cada um de nós.
+Existe também uma identidade cultural regional
+e uma identidade que se manifesta na paisagem local.
+Como vimos ao discutir tipologia edilícia,
+mostrar a organização da sociedade na paisagem urbana
+é um papel importante da forma arquitetônica.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: full
-![Construção tradicional contemporânea no Marrocos. Foto: [Fundação Terrachidia, 2018](https://congress.intbau.org/session-2/)](https://i.pinimg.com/originals/93/6f/bd/936fbd07609637b47ab0aacef765431e.jpg){#fig:terrachidia}
-:::
+![Léon Krier, A verdadeira cidade](/media/lk-civitas.png)
 
-## {data-background-image="https://i.pinimg.com/originals/7e/dd/ed/7edded54cb5dfe0c0323f36b380d1e44.jpg" data-background-transition="slide-in fade-out"}
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-![Auguste Perret, palais d'Iéna, Paris, 1937](https://i.pinimg.com/originals/7e/dd/ed/7edded54cb5dfe0c0323f36b380d1e44.jpg){#fig:perret .outset .slide-bg}
+![](/media/ordem-terceira.jpg){height="960px"}
+
+
+# Por uma nova arquitetura tradicional #
+
+
+## A arquitetura tradicional é socialmente justa ##
+
+![Construção tradicional contemporânea no Marrocos. Foto: [Fundação Terrachidia, 2018](https://congress.intbau.org/session-2/)](https://i.pinimg.com/originals/93/6f/bd/936fbd07609637b47ab0aacef765431e.jpg){#fig:terrachidia .full}
+
+
+## A arquitetura tradicional é ambientalmente sustentável ##
+
+![Análise de desempenho térmico e qualidade do ar em construção tradicional na Beira Alta, Portugal. [Fernandes (2020)](https://www.mdpi.com/1996-1073/13/3/624)](https://i.pinimg.com/originals/8d/57/27/8d57279cd24b5142bea444e78813edad.png){#fig:fernandes .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Essa definição não é exclusiva da arquitetura tradicional.
-O engenheiro e arquiteto moderno francês Auguste Perret insistia na
-relação muito próxima entre arquitetura e construção. Nas suas obras
-construídas em concreto armado, como o palácio Iéna em Paris
-([@fig:perret]), tanto quanto nos seus aforismos famosos, Perret defendia
-uma identidade quase completa entre arquitetura e construção; nesse
-caso, a arquitetura não é algo que incrementa ou que se distingue da
-construção, mas é ela própria a expressão da lógica construtiva:
+Além disso, a massa de material denso --- que pode ser pedra, tijolo ou
+taipa --- funciona como isolante térmico e acumulador passivo de calor
+([@fig:fernandes]). Por outro lado, mesmo essas grandes massas são porosas
+em certa medida: isso mantém uma boa qualidade do ar interior, sem pôr
+em risco a integridade do sistema, ao contrário das construções modernas
+[@fernandes:2020thermal13].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/7e/dd/ed/7edded54cb5dfe0c0323f36b380d1e44.jpg" data-background-opacity="0.7" data-background-transition="fade-in slide-out"}
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-> Arquitetura é a arte de fazer cantar o ponto de apoio.
->
-> <footer>Auguste Perret, 1935</footer>
+![Galán-Marín et al.,
+  "Enhancing urban microclimates towards climate-resilient cities", 2022
+](/media/galan-422-09.png)
 
-## {data-background-image="https://i.pinimg.com/originals/69/0a/5d/690a5d97e23daa90a3c438c78dfafb3d.jpg" data-background-transition="slide-in fade-out"}
 
-::: full
-![Makoto Fukada, mestre carpinteiro, residência tradicional japonesa, século [XXI]{.smallcaps}. [Seyseysha](http://www.seyseysha.com/en/about/index.html)](https://i.pinimg.com/originals/69/0a/5d/690a5d97e23daa90a3c438c78dfafb3d.jpg){#fig:seyseysha .slide-bg}
-:::
+## A arquitetura tradicional promove o reconhecimento da nossa humanidade ##
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Começamos com isso, portanto:
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Christopher Alexander, arquiteto,
+  abrigo para sem-teto Saint Julian, em San José, Califórnia, 1989
+](/media/alexander-shelter.jpg)
 
-## {data-background-image="https://i.pinimg.com/originals/ff/2d/0b/ff2d0b1d9579bdeb3552b59f4c25197a.jpg" data-background-opacity="0.7" data-background-transition="fade-in slide-out"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.epigraph}
-> Corolário 2: arquitetura tradicional é aquela que resulta dos
-> processos produtivos tradicionais da construção, tanto no passado
-> quanto no presente.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-------
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Esse segundo corolário é o que caracteriza, de fato, a arquitetura
-tradicional. Arquitetura tradicional não é fazer *estilos históricos*
-usando processos construtivos industrializados: isso é possível, e tem
-sido feito com sucesso desde o século [XIX]{.smallcaps}. O edifício
-Martinelli, em São Paulo, foi construído em concreto armado e com estilo
-neo-Renascimento francês ([@fig:martinelli]). Ele é um exemplo brilhante
-de como fazer construção moderna seguindo as lógicas espacial e plástica
-tradicionais.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![William Fillinger, arquiteto, edifício Martinelli, São Paulo, 1916--1924. [Vista aérea de 1929](https://www.estilosarquitetonicos.com.br/edificio-martinelli/)](https://i.pinimg.com/originals/3e/36/90/3e3690121c8737637b9e207bd91c4ec4.jpg){#fig:martinelli .outset}
-
-------
-
-![Henri Guillou, carpinteiro, tesoura de telhado reconstruída numa mansão rural histórica, [2014](http://henriguillou.over-blog.com/2014/05/charpente.html)](https://i.pinimg.com/originals/11/49/99/11499908a2d075eb39a1b83fd0b0236f.jpg){#fig:guillou .outset}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Só que isso não é o objeto deste curso: aqui vamos nos ocupar da
-tradição arquitetônica como um esforço global, que envolve o tripé
-completo dos princípios da arquitetura: construção tradicional,
-espacialidade tradicional e plástica tradicional. Vamos estudar a
-aplicação desses princípios no contexto cultural luso-brasileiro.
-São práticas que continuam em vigor tanto na conservação de construções
-históricas quanto em novas edificações; as técnicas e os processos são
-os mesmos, como na obra do carpinteiro francês Henri Guillou
-([@fig:guillou]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-------
+## Por que a arquitetura moderna não é capaz de resolver os problemas socioeconômicos do ambiente construído ##
 
 ::: align-right
 ![Capa do livro *Sérgio Ferro: arquitetura e trabalho livre*](https://journals.openedition.org/craup/docannexe/image/591/img-1.jpg){#fig:ferro}
@@ -1663,7 +1494,7 @@ separação do processo produtivo entre arquiteto e construtor
 [@ferro:2006arquitetura].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-------
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa separação se aprofunda com a gradual industrialização do processo
@@ -1676,11 +1507,9 @@ apropriem de todo o processo produtivo da obra ([@fig:mutirao]).
 
 ![Canteiro do mutirão da União da Juta, São Paulo. Foto: [acervo Usina CTAH ](https://www.archdaily.com.br/br/787242/trabalhador-coletivo-e-autonomia-sergio-ferro)](https://i.pinimg.com/originals/84/0d/2a/840d2a1e6af95df7be8a69470cf0558b.jpg){#fig:mutirao}
 
-------
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-::: full
-![Sérgio Ferro, arquiteto, residência Boris Fausto, São Paulo, 1961. Foto em Fiori (2018)](https://journals.openedition.org/craup/docannexe/image/591/img-6.jpg){#fig:boris}
-:::
+![Sérgio Ferro, arquiteto, residência Boris Fausto, São Paulo, 1961. Foto em Fiori (2018)](https://journals.openedition.org/craup/docannexe/image/591/img-6.jpg){#fig:boris .full}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A aporia da crítica do jovem Ferro e de outros arquitetos marxistas
@@ -1697,86 +1526,74 @@ predominantemente industrializados, a começar pelo concreto armado
 ([@fig:boris]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Utilitas › Firmitas › Venustas ## {data-background-image="https://i.pinimg.com/originals/93/6f/bd/936fbd07609637b47ab0aacef765431e.jpg"}
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![Site do laboratório CRATerre, Grenoble](/media/craterre.jpg)
+
+
+## O que vamos aprender ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Nossa primeira aproximação ao estudo da arquitetura
-tradicional dividiu o campo da arquitetura em três princípios:
-construção, espacialidade e plástica, onde a construção é a base dos
-outros dois princípios. Na continuação, vamos detalhar o que é
-construção tradicional e como ela é diferente da construção moderna.
+Aqui vamos nos ocupar da
+tradição arquitetônica como um esforço global, que envolve o tripé
+completo dos princípios da arquitetura:
+processo produtivo tradicional,
+espacialidade tradicional e plástica tradicional.
+Vamos estudar a
+aplicação desses princípios no contexto cultural luso-brasileiro.
+São práticas que continuam em vigor tanto na conservação de construções
+históricas quanto em novas edificações; as técnicas e os processos são
+os mesmos.
+Vários programas de construção de interesse social pelo mundo afora
+ilustram esse princípio (@fig:pico).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# O que não é arquitetura tradicional #
+![Escola de verão de arquitetura tradicional nos Açores, 2022.
+  <br />
+  Foto: Pedro P. Palazzo
+](/media/pt-acores-pico-summerstudio-220719.jpg)
 
-## Imagem invertida da modernidade capitalista ##
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-![Frontispício do livro *Origem e fundamentos da desigualdade entre os homens*, de Jean-Jacques Rousseau, 1755](https://i.pinimg.com/originals/86/14/15/861415e6e77de024114ba3a6fcd3b76a.jpg){#fig:inegalite .outset}
+![](/media/pt-acores-pico-summerstudio-220716.jpg)
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Depois dessa primeira aproximação ao que é arquitetura
-tradicional, é importante fazer algumas ressalvas sobre o que
-arquitetura tradicional *não é*. A arquitetura tradicional não é uma
-projeção invertida da arquitetura moderna, e acima de tudo não é uma
-projeção dos desejos e fetiches culturalistas do pensamento ocidental
-moderno. Esses desejos costumam implicar uma inversão de valores que tem
-o seu auge no Iluminismo europeu do século [XVIII]{.smallcaps}, com a
-alegoria do "bom selvagem" imaginada pelo filósofo suíço Jean-Jacques
-Rousseau ([@fig:inegalite]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-------
+![](/media/pt-acores-pico-summerschool-220714.jpg)
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Essa fantasia europeia pretendia substituir a história bíblica do jardim
-do Éden ([@fig:eden]) por um milenarismo secular centrado no *combo*
-sociedade igualitária--posse coletiva dos bens e da tecnologia--vida em
-harmonia com a natureza. Ela inspirou movimentos socialistas como a vila
-de New Harmony, fundada pelo industrial escocês Robert Owen em 1824 no
-interior dos Estados Unidos ([@fig:harmony]), e o o romance utópico *News
-from Nowhere* do arquiteto Arts and Crafts inglês William Morris
-([@fig:nowhere]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-![Jan Brueghel, o velho, Jardim do Éden, óleo sobre madeira, c. 1610--1612. [Acervo museu Thyssen--Bornemisza, Madri](https://www.museothyssen.org/en/collection/artists/brueghel-jan-elder/garden-eden)](https://i.pinimg.com/originals/8e/a1/fb/8ea1fb4e8492fef21faf593de731b445.jpg){#fig:eden .outset}
+![](/media/ribeira_section-crop2.jpg)
 
-------
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-![Vista do projeto de New Harmony, Estados Unidos, idealizado em 1824 por Robert Owen. Gravura: [F. Bate, 1838](https://commons.wikimedia.org/wiki/File:New_Harmony,_Indiana,_por_F._Bates.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/eb/New_Harmony,_Indiana,_por_F._Bates.jpg){#fig:harmony}
+![](/media/social-cor-wide.jpg)
 
-------
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-![Primeira página dupla do livro *News from Nowhere*, escrito e ilustrado por William Morris [(London: Hammersmith, 1892)](https://www.bl.uk/collection-items/news-from-nowhere-by-william-morris)](https://i.pinimg.com/originals/4d/91/6d/4d916d930ba0a0cb67def8a9ee6fda87.jpg){#fig:nowhere .outset}
+![](/media/pt-entroncamento-camoes-IB-IA-prancha.jpg)
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![Demonstração de construção em pedra seca pelo canteiro Raul,
+  Lajes do Pico, 16 de julho de 2022
+](https://upload.wikimedia.org/wikipedia/commons/0/0d/Pedra_solta-Lajes_do_Pico-canteiro_Raul-220716-9499.webm)
 
 
-## Tradição ou primitivismo ##
+# Recursos online #
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=46%}
-![Capa de reedição recente do livro de E. B. Tylor, *Primitive Culture*, 1871](https://i.pinimg.com/564x/83/56/8a/83568acdf269a0217d77645162145cdf.jpg){#fig:tylor}
+::: {.column width=30%}
+![](/media/arqtrad.jpg)
 :::
-::: {.column width=54%}
-![Capa do livro *The Eternal Present*, baseado na série de palestras de 1957 de Sigfried Giedion ](https://i.pinimg.com/564x/c4/d7/e4/c4d7e4880285ffb4dc2aa275e3c56077.jpg){#fig:eternal}
+::: {.column width=70%}
+![](/media/arqtrad-site.jpg)
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A utopia tradicionalista do Iluminismo tem como contrapartida uma visão
-colonialista e, no fim das contas, racista de sociedades não ocidentais
-como sendo "primitivas" ([@fig:tylor]). As culturas que foram chamadas de
-"tradicionais" pelos europeus do século [XIX]{.smallcaps} e
-[XX]{.smallcaps} eram descritas pelos antropólogos como sociedades
-desprovidas de história: elas estariam presas numa espécie de "eterno
-presente" das origens da humanidade, repercutido no argumento de 1957 do
-historiador da arquitetura Sigfried Giedion ([@fig:eternal]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-# Por uma nova arquitetura tradicional #
-
-<!--Arquitetura e terroir-->
-
-
-# Conclusão #
-
+---
+nocite: |
+  @caniggia:1984lettura,
+  @pinon:2006teoriaa
+---
 

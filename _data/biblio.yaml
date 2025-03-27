@@ -28,6 +28,24 @@ references:
   type: book
   volume: '2'
 
+- id: alexander:2002phenomenon
+  author:
+    - family: Alexander
+      given: Christopher
+  citation-key: alexander:2002phenomenon
+  collection-number: '1'
+  collection-title: The nature of order
+  event-place: Berkeley, Cal.
+  ISBN: 978-0-9726529-0-2 978-0-9726529-2-6
+  issued:
+    - year: 2002
+  language: eng
+  publisher: Center for Environmental Structure
+  publisher-place: Berkeley, Cal.
+  source: Open WorldCat
+  title: The phenomenon of life
+  type: book
+
 - id: alvim:1997arquitetura
   author:
     - family: Alvim
@@ -670,6 +688,23 @@ references:
   publisher-place: Lisboa
   source: Library of Congress ISBN
   title: Arquitectura popular dos Açores
+  type: book
+
+- id: caniggia:1984lettura
+  author:
+    - family: Caniggia
+      given: Gianfranco
+  citation-key: caniggia:1984lettura
+  collection-title: '[1963]'
+  event-place: Roma
+  issued:
+    - year: 1984
+  language: it
+  publisher: Centro Studi di Storia Urbanistica
+  publisher-place: Roma
+  source: Open WorldCat
+  title: 'Lettura di una città: Como'
+  title-short: Como
   type: book
 
 - id: caniggia:1987progetto
@@ -3172,6 +3207,47 @@ references:
   type: book
   URL: http://purl.pt/24485
 
+- id: pinon:2006teoria
+  author:
+    - family: Piñón
+      given: Helio
+  call-number: MLCM 2007/40331 (N)
+  citation-key: pinon:2006teoria
+  collection-number: '24'
+  collection-title: Col·lecció d'Arquitectura
+  event-place: Barcelona
+  ISBN: 978-84-8301-847-7
+  issued:
+    - year: 2006
+  language: spa
+  number-of-pages: '221'
+  publisher: Universitat Politècnica de Catalunya
+  publisher-place: Barcelona
+  source: Library of Congress ISBN
+  title: Teoría del proyecto
+  type: book
+
+- id: pinon:2006teoriaa
+  author:
+    - family: Piñón
+      given: Helio
+  citation-key: pinon:2006teoriaa
+  event-place: Porto Alegre
+  ISBN: 978-85-60085-02-6
+  issued:
+    - year: 2006
+      month: 1
+      day: 1
+  language: por
+  publisher: Livraria do arquiteto
+  publisher-place: Porto Alegre
+  source: Amazon
+  title: Teoria do projeto
+  translator:
+    - family: Mahfuz
+      given: Edson
+  type: book
+
 - id: plaza:2014dicionario
   citation-key: plaza:2014dicionario
   contributor:
@@ -4021,6 +4097,31 @@ references:
   type: article-journal
   URL: http://journal.eahn.org/articles/10.5334/ah.bp/
   volume: '2'
+
+- id: tzonis:1972non-oppressive
+  abstract: >-
+    124 p. ; 21 cm; On spine: Non-oppressive environment; Includes
+    bibliographical references
+  accessed:
+    - year: 2022
+      month: 1
+      day: 10
+  author:
+    - family: Tzonis
+      given: Alexander
+  citation-key: tzonis:1972non-oppressive
+  event-place: Boston
+  issued:
+    - year: 1972
+  language: en
+  number-of-pages: '138'
+  publisher: Braziller
+  publisher-place: Boston
+  source: Internet Archive
+  title: Towards a non-oppressive environment
+  title-short: Towards a non-oppressive environment
+  type: book
+  URL: http://archive.org/details/towardsnonoppres0000tzon
 
 - id: vasconcellos:1979arquitetura
   author:
