@@ -12,10 +12,10 @@ filters:
 toc-depth       : 1
 metadata:
   lang          : pt-PT
-  toc-title     : "Índice"
+  toc-title     : "Sumário"
 number-sections : true
-template        : "default.latex"
 variables:
+  abstract-title: "Ementa"
   secnumdepth   : 2
   classoption:
     - oneside
@@ -37,30 +37,28 @@ variables:
   header-includes: |
     \usepackage[dvipsnames]{xcolor}
 
-    \usepackage{multicol}
-    \setlength{\columnsep}{15pt}
     \usepackage{csquotes}
     \usepackage[overload]{textcase}
     \newcommand\allsc[1]{\textsc{\MakeTextLowercase{#1}}}
 
     \usepackage{titling}
     \usepackage{setspace}
-    \pretitle{\begin{center}\setstretch{1.4}}
+    \pretitle{\vspace{-8ex}\begin{center}\setstretch{1.4}}
     \posttitle{\end{center}}
     \preauthor{\vspace{-4ex}\begin{center}\setstretch{1.2}}
-    \postauthor{\par\end{center}\vspace{-5ex}}
-    \predate{\begin{center} \Large Braſília, primeiro ſeme\char"FB05re de \linebreak \LARGE}
+    \postauthor{\par\end{center}\vspace{-2ex}}
+    \predate{\setstretch{1.2} \begin{center} \Large Braſília, primeiro ſeme\char"FB05re de \linebreak \LARGE}
     \postdate{\end{center} \vfill}
     \setlength{\droptitle}{-15ex}
 
     \usepackage{titletoc}
     \titlecontents{chapter}[0pt]{\addvspace{1em} \large}{\thecontentslabel \quad\enspace{\hspace*{-0.2em}}}{}{\titlerule*[0.25pc]{ }\thecontentspage}[\addvspace{1em}]
-    \usepackage[rm,center,uppercase,explicit]{titlesec}
-    \titleformat{name=\chapter,numberless}[display]{\begin{center}}{\huge \MakeUppercase{#1}}{1ex}{}[\end{center}]
-    \titleformat{\chapter}[display]{\begin{center}}{\huge\liningnums{\thechapter} \linebreak \MakeUppercase{#1}}{1ex}{}[\end{center}]
-    \titleformat{\section}[block]{\begin{center}\Large}{\liningnums{\thesection \quad \MakeUppercase{#1}}}{1em}{}[\end{center}]
+    \usepackage[rm,medium,center,uppercase,explicit]{titlesec}
+    \titleformat{name=\chapter,numberless}[display]{\begin{center}}{\Large \MakeUppercase{#1}}{1ex}{}[\end{center}]
+    \titleformat{\chapter}[display]{\begin{center}}{\Large\liningnums{\thechapter} \linebreak \MakeUppercase{#1}}{1ex}{}[\end{center}]
+    \titleformat{\section}[block]{\begin{center}\large}{\liningnums{\thesection \quad \MakeUppercase{#1}}}{1em}{}[\end{center}]
     \titleformat{\subsection}[block]{\begin{center}\large}{\thesubsection \quad \allsc{#1}}{1em}{}[\end{center}]
-    \titleformat{\paragraph}[runin]{}{\textsc{#1}}{0pt}{}[]
+    \titleformat{\paragraph}[runin]{\normalfont}{\textsc{#1}}{0pt}{}[]
     \titlespacing{\paragraph}{0pt}{1em}{0.5ex}
     
     \usepackage{enumitem}
