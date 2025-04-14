@@ -8,11 +8,11 @@ cite-method     : citeproc
 filters:
   - pandoc-crossref
   - citeproc
-  - pandoc-include
 toc-depth       : 1
 metadata:
   lang          : pt-PT
   toc-title     : "Índice"
+  csl           : "_data/modern-language-association.csl"
 number-sections : true
 template        : "default.latex"
 variables:

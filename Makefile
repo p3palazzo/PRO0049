@@ -9,8 +9,8 @@ SLIDES  = $(patsubst docs/%.md,slides-%/index.html,$(DOCS))
 .PHONY : slides
 slides : $(SLIDES)
 
-plano.pdf : plano.md article.yaml bibliografia.yaml
-	pandoc -o $@ -d _spec/article.yaml $<
+plano.pdf : docs/plano.md _spec/article.yaml _data/biblio.yaml
+	pandoc -o $@ -d _spec/article.yaml --csl _data/chicago-note-bibliography.csl --bibliography _data/biblio.yaml $<
 
 slides-%/index.html : docs/%.md \
 	_data/revealjs.yaml \
