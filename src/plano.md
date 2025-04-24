@@ -28,23 +28,28 @@ author: >
   \LARGE da \MakeUppercase{Univerſidade de Braſília.}
   \color{Black}
 date: "M M X X V"
-csl                  : "chicago-cv.csl"
-bibliography         : "../_data/biblio.yaml"
+csl                  : "_data/chicago-cv.csl"
+bibliography         : "_data/biblio.yaml"
 suppress-bibliography: true
 bibliography-title   : "Bibliografia de referência"
 numbersections       : true
 toc                  : true
-documentclass        : "report"
+documentclass        : "book"
 abstract-title       : "Ementa"
-abstract: |
-  Estudo sobre situações existentes sob o ponto de vista da produção e
-  configuração do seu ambiente. A disciplina problematizará a prática e
-  a formação dos profissionais universitários (principalmente dos
-  arquitetos) face às práticas e modos de construção das populações
-  tradicionais. A análise dará especial ênfase ao saber (tecnológico e
-  arquitetônico) dessas comunidades contingenciado pela natureza e pelas
-  instituições reguladoras desses povos.
 ---
+
+# Ementa # {- .unlisted}
+
+\noindent
+A disciplina promove o
+estudo da produção e configuração de ambientes tradicionais.
+O objetivo é fomentar a prática e
+a formação dos profissionais universitários
+face aos saberes e modos de construção das populações
+tradicionais de matriz luso-brasileira.
+A análise dará especial ênfase ao saber (tecnológico e
+arquitetônico) dessas comunidades contingenciado pela natureza e pelas
+instituições reguladoras desses povos.
 
 # Apresentação #
 
@@ -98,8 +103,7 @@ Tipologia
 
 ## Docente ##
 
-##### Pedro Paulo Palazzo #####
-
+[Pedro Paulo Palazzo]{.smallcaps}
 acredita na arquitetura e no urbanismo tradicionais como instrumentos
 para a produção e transformação duma cidade mais justa, inclusiva, bela,
 dimensionada à escala do corpo e das aspirações materiais e espirituais
@@ -108,10 +112,12 @@ cultural.
 
 É professor do Departamento de Teoria e História da Arquitetura e
 Urbanismo na Universidade de Brasília desde 2007. É Arquiteto e
-Urbanista, membro das associações de promoção da arquitetura tradicional
+Urbanista, membro das associações de estudo e promoção
+da arquitetura tradicional
 International Network for Traditional Building, Architecture and
-Urbanism \allsc{(INTBAU)}, La Table Ronde de l'Architecture, e membro
-fundador do Instituto Brasileiro de Arquitetura Tradicional
+Urbanism \allsc{(INTBAU)},
+Association Francophone d'Histoire de la Construction \allsc{(AFHC)},
+e membro fundador do Instituto Brasileiro de Arquitetura Tradicional
 \allsc{(IBAT)}.
 
 # Metodologia #
@@ -147,54 +153,65 @@ dos trabalhos e na compreensão do conteúdo.
 
 ### Pequena decoração ###
 
-##### Atividade introdutória #####
-
+[Atividade introdutória]{.smallcaps}
 realizada durante o horário da aula. Usando uma ou duas cores de tinta
 gouache sobre uma superfície com 15 × 15 cm, sem desenho prévio ou
 instrumentos técnicos, você vai criar um padrão ou elemento decorativo
 que represente a melhor aspiração estética possível.
 
-##### Objetivos de aprendizagem #####
-
-Estilo e representação gráfica ; Composição.
+Objetivos de aprendizagem
+: Estilo e representação gráfica ; Composição.
 
 
 ### Tulha ###
 
-##### Maquete construtiva #####
-
+[Maquete construtiva]{.smallcaps}
 duma edificação simples, com um único ambiente e duas aberturas, de
-caráter vernacular. Usando materiais reais (pedra, barro, madeira, etc.)
+caráter vernacular.
+A tulha é um abrigo simples para guardar ferramentas e equipamentos.
+Sua aparência é despojada mas, encontrando-se num jardim público
+duma cidade histórica, deve ser composta com elegância e simetria.
+
+Usando materiais reais (pedra, barro, madeira, etc.)
 você vai representar sistemas construtivos característicos duma tradição
 regional do mundo de influência portuguesa.
 
-##### Objetivos de aprendizagem #####
-
-Repertório ; Construção.
-
+Objetivos de aprendizagem
+: Repertório ; Construção.
 
 ### Chafariz ###
 
-##### Esquiço de arquitetura clássica #####
-
+[Esquiço de arquitetura clássica]{.smallcaps}
 usando os instrumentos de desenho técnico e também o desenho à mão
-livre. Você deve propor uma composição elegante e dignificada para este
+livre.
+No jardim público da mesma cidade histórica,
+há uma bica d'água que jorra de um talude.
+Essa bica será urbanizada com um tanque ou espelho d'água e
+um muro de contenção vertical que deve ser ornamentado
+segundo a tradição clássica (no sentido amplo) luso-brasileira.
+
+Você deve propor uma composição elegante e dignificada para este
 equipamento público importante, usando uma ordem clássica e os demais
 elementos acessórios, de modo a expressar o caráter de um dos estilos da
 arquitetura erudita de origem portuguesa. Apresentação a lápis numa
 única prancha tamanho A2, com vários desenhos gerais e detalhes em todas
 as escalas necessárias.
 
-##### Objetivos de aprendizagem #####
+Objetivos de aprendizagem
+: Repertório ; Estilo e representação gráfica ; Construção ; Composição.
 
-Repertório ; Estilo e representação gráfica ; Construção ; Composição.
 
+### Casa de jardineiros ###
 
-### Casa popular ###
-
-##### Estudo preliminar duma edificação #####
-
+[Estudo preliminar duma edificação]{.smallcaps}
 com dois ambientes de permanência prolongada, além de banheiro e porão.
+Conforme à tradição, o nosso jardim público duma cidade histórica
+prevê uma morada modesta, porém refinada,
+para um casal de jardineiros (que também fazem ofício de
+arquitetos paisagistas e engenheiros agrônomos).
+A casa deve prever local para repouso, trabalho intelectual,
+higiene pessoal, preparo e consumo de alimentos, e um depósito.
+
 Você vai apresentar a composição desta casa usando as convenções
 gráficas do desenho arquitetônico da Idade Moderna ao século
 \allsc{XIX}, em pranchas bem diagramadas e arte-finalizadas, usando
@@ -203,9 +220,8 @@ O projeto precisa atender a todas as normas edilícias atuais, além de
 representar uma tradição vernacular regional do mundo de influência
 portuguesa.
 
-##### Objetivos de aprendizagem #####
-
-Todos.
+Objetivos de aprendizagem
+: Todos.
 
 
 # Conteúdo programático #
@@ -234,6 +250,7 @@ Todos.
 
    : Pequena decoração.
 
+\pagebreak
 
 ## Construção ##
 
@@ -243,7 +260,7 @@ Todos.
 
    : Princípios estáticos aplicados à construção tradicional. Traçados
    reguladores e proporcionais que dimensionam as estruturas. Fundações.
-   Taipas. Drenagem. Alvenaria comum em pedra.
+   Madeiramento de frontais e assoalhos.
 
    Atividade
 
@@ -255,6 +272,7 @@ Todos.
 
    : Adobes e tijolos. Pedra aparelhada. Parede mista. Vãos em madeira e
    pedra. Chanfros. Pingadeiras. Argamassas e revestimentos.
+   Taipas. Drenagem. Alvenaria comum em pedra.
 
 5.
 
@@ -291,7 +309,7 @@ Todos.
 
    Propriedades e elementos
 
-   : da arquitetura clássica. Elementos complementares. Justaposição e
+   : da arquitetura clássica. Elementos complementares. Justaposição e
    integração entre elementos. Estilos.
 
 9.
@@ -319,7 +337,7 @@ Todos.
    
    Atividade
 
-   : Casa popular
+   : Casa de jardineiros
 
 12.
 
@@ -339,7 +357,7 @@ Todos.
 
    Produção, entrega e revisão
 
-   : da Casa popular.
+   : da Casa de jardineiros.
 
 
 ## Apresentação e exposição ##
@@ -399,7 +417,7 @@ as competências a serem aplicadas em cada trabalho são
 \textsc{cumulativos} : você precisará ter dominado os requisitos de um
 trabalho para ter sucesso no trabalho seguinte !
 
-##### Não recebemos, \color{Red} sob hipótese alguma\color{Black}, trabalhos por e-mail. #####
+[Não recebemos, \color{Red} sob hipótese alguma\color{Black}, trabalhos por e-mail.]{.smallcaps}
 
 ### Sobre criatividade e originalidade ###
 
@@ -414,14 +432,14 @@ e profissionalmente. A atividade que você entregar não é um reflexo da
 sua \textsc{identidade} enquanto indivíduo, e sim do que você
 \textsc{aprendeu} com um conteúdo novo.
 
-Em cada tarefa você precisa demonstrar *criatividade.* Criatividade é a
-capacidade de gerar uma forma arquitetônica que não seja necessariamente
-inusitada, e sim que atenda a uma exigência bastante específica descrita
-na ementa de cada tarefa. Assim, você vai demonstrar a sua compreensão
-da construção tradicional e da arquitetura clássica. Não complique
-desnecessariamente o processo buscando uma expressão original e
-rebuscada: a sua linguagem pessoal vai aparecer gradual e naturalmente
-do seu modo de resolver o problema proposto.
+Em cada tarefa você precisa demonstrar \textsc{criatividade}.
+Criatividade é a capacidade de gerar uma forma arquitetônica que não
+seja necessariamente inusitada, e sim que atenda a uma exigência
+bastante específica descrita na ementa de cada tarefa. Assim, você vai
+demonstrar a sua compreensão da construção tradicional e da arquitetura
+clássica. Não complique desnecessariamente o processo buscando uma
+expressão original e rebuscada: a sua linguagem pessoal vai aparecer
+gradual e naturalmente do seu modo de resolver o problema proposto.
 
 ### O que é plágio? ###
 
@@ -439,31 +457,30 @@ encontrarem no Google ou no Pinterest estão \textsc{errados} !
 
 Table: Cronograma da disciplina
 
-| Aula |  Data | Conteúdo                                                        |
-|:----:|:-----:|:----------------------------------------------------------------|
-|   1  | 27/03 | Aula pública de abertura. Introdução à disciplina               |
-|   2  | 03/04 | Geometria, proporções e modularidade                            |
-|      |       | \textsc{Trabalho em sala : Pequena decoração}                   |
-|   3  | 10/04 | Materiais tradicionais. Fundações. Alvenaria comum              |
-|      |       | \textsc{Trabalho : Tulha}                                       |
-|   4  | 17/04 | Adobes e tijolos. Pedra aparelhada. Parede mista.               |
-|   5  | 24/04 | Vãos, pingadeiras. Arcos. Revestimentos de paredes.             |
-|      | 01/05 | Recesso                                                         |
-|   6  | 08/05 | Coberturas. Forros. Beirais. Azulejaria.                        |
-|   7  | 15/05 | Produção, entrega e revisão do \textsc{Trabalho : Tulha}        |
-|   8  | 22/05 | Arquitetura clássica. Ordens segundo Vinhola. Fractal. Cânones  |
-|      |       | \textsc{Trabalho : Chafariz}                                    |
-|   9  | 29/05 | Elementos complementares. Justaposição e sobreposição. Estilos  |
-|  10  | 05/06 | Detalhamento e representação. Ornamentos. Desenho analítico     |
-|  11  | 12/06 | Produção, entrega e revisão do \textsc{Trabalho : Chafariz}     |
-|      | 19/06 | Recesso                                                         |
-|  12  | 26/06 | Tipologia de casas. Popular e vernáculo. Clima e cultura        |
-|      |       | \textsc{Trabalho : Casa popular}                                |
-|  13  | 03/07 | Espacialidade tradicional. Limiares. Decoro. Interiores         |
-|  14  | 10/07 | Artes aplicadas. Laçaria. Talha. Azulejaria. Pintura mural      |
-|      |       | Diagramação e arte-finalização de pranchas                      |
-|  15  | 17/07 | Produção, entrega e revisão do \textsc{Trabalho : Casa popular} |
-|  16  | 24/07 | Exposição e avaliação dos trabalhos                             |
+| Aula |  Data | Conteúdo                                                               |
+|:----:|:-----:|:-----------------------------------------------------------------------|
+|   1  | 27/03 | Aula pública de abertura. Introdução à disciplina                      |
+|   2  | 03/04 | Geometria, proporções e modularidade                                   |
+|      |       | \textsc{Trabalho em sala : Pequena decoração}                          |
+|   3  | 10/04 | Materiais tradicionais. Fundações. Assoalhos                           |
+|      |       | \textsc{Trabalho : Tulha}                                              |
+|   4  | 17/04 | Adobes e tijolos. Pedra aparelhada. Parede mista.                      |
+|   5  | 24/04 | Coberturas. Forros. Beirais. Azulejaria.                               |
+|      | 01/05 | Feriado                                                                |
+|   6  | 08/05 | Produção, entrega e revisão do \textsc{Trabalho : Tulha}               |
+|   7  | 15/05 | Arquitetura clássica. Ordens segundo Vinhola. Fractal. Cânones         |
+|      |       | \textsc{Trabalho : Chafariz}                                           |
+|   8  | 22/05 | Elementos complementares. Justaposição e sobreposição. Estilos         |
+|   9  | 29/05 | Detalhamento e representação. Ornamentos. Desenho analítico            |
+|  10  | 05/06 | Produção, entrega e revisão do \textsc{Trabalho : Chafariz}            |
+|  11  | 12/06 | Tipologia de casas. Popular e vernáculo. Clima e cultura               |
+|      | 19/06 | Feriado                                                                |
+|      |       | \textsc{Trabalho : Casa popular}                                       |
+|  12  | 26/06 | Espacialidade tradicional. Limiares. Decoro. Interiores                |
+|  13  | 03/07 | Artes aplicadas. Laçaria. Talha. Azulejaria. Pintura mural             |
+|      |       | Diagramação e arte-finalização de pranchas                             |
+|  14  | 10/07 | Produção, entrega e revisão do \textsc{Trabalho : Casa de jardineiros} |
+|  15  | 17/07 | Exposição e avaliação dos trabalhos                                    |
 
 
 # Bibliografia de referência #
